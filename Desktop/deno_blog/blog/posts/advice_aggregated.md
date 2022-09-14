@@ -11,7 +11,7 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Suck the oxygen out of the air" - [Pat Grady](https://twitter.com/gradypb/status/1500853918036729856?s=20&t=nBg6rHzCk0fTZD5avEMTEg) on winning founder mind share. (about Sarah Guo!)
 
-- "Do good deals" - Anon on becoming a great investor. "Obvious" - but very easy to climb the wrong hill.
+- "Do good deals" - [Luke Byrne](https://twitter.com/byrnemluke) on becoming a great investor. "Obvious" - but very easy to climb the wrong hill.
 
 - "Look at the steepness of the slope" - [Geoff Lewis](https://www.youtube.com/watch?v=gd8ljRyBmTQ) on assessing the MOIC of people vs. companies.
 
