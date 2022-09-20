@@ -5,6 +5,8 @@ publish_date: 2022-09-20
 
 *"node_modules, the heaviest object in the universe"*
 
+*Should you wish to stay updated on future posts, subscribe to receive carrier pidgeons at my [substack](https://whynowtech.substack.com/).*
+
 ![image](https://user-images.githubusercontent.com/44316926/191210633-737b29d2-187a-4ac6-9b9a-f40ba8baaa8f.png)
 
 The theoretical physicist, [Wolfgang Pauli](https://en.wikipedia.org/wiki/Wolfgang_Pauli), is widely attributed for the counter-intuitive critique: “it’s not even wrong”. 
