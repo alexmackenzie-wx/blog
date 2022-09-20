@@ -67,7 +67,7 @@ Yes, the creator of the Node.js runtime is now building its ~adversary, Deno. Th
 
 --- 
 
-[Deno](https://deno.land/) (Dee-no) is defined as a **{batteries included}**, **simple**, **modern**, and **secure** **~~runtime~~** **{based on web standards}** for ** ~~JavaScript~~ **, **TypeScript**, and **WebAssembly** that uses **V8** and is built in **Rust**. 
+[Deno](https://deno.land/) (Dee-no) is defined as a **{batteries included}**, **simple**, **modern**, and **secure** **~~runtime~~** **{based on web standards}** for ~~**JavaScript**~~, **TypeScript**, and **WebAssembly** that uses **V8** and is built in **Rust**. 
 
 Unlike my publishing cadence, I’m going to stay consistent here and keep tackling the foundational technologies before we delve into the *simple*, *modern*, and *secure* characteristics of Deno. Next candidate, TypeScript.
 
