@@ -5,7 +5,7 @@ publish_date: 2022-06-17
 
 *“Some say software is eating the world, I would say that: BPF is eating software”*
 
-*Should you wish to stay updated on future posts, subscribe to receive carrier pidgeons at my [substack](https://whynowtech.substack.com/).*
+*Should you wish to stay updated on future posts, subscribe to receive carrier pigeons at my [substack](https://whynowtech.substack.com/).*
 
 To paraphrase [Brad Gerstner](https://www.acquired.fm/episodes/altimeter-with-brad-gerstner), there are two broad approaches to investing: “working the cocktail circuit” or being an “anthropologist”. At the cocktail parties I’ve attended of late, touting ~new ways to program the Linux kernel isn’t always a surefire way to make friends, so anthropology it is. Like many emerging technologies (a la WebAssembly), it isn’t exclusively eBPF itself that represents a direct opportunity, but also the potential second-order solutions that the technology enables.
 
