@@ -241,7 +241,7 @@ In Cloudflare’s case, more space™ means that it’s economical (among other 
 
 So yeah, when someone’s inevitably bloviating about the “future of cloud” think (but never say out loud) “more space” and you’ll likely be able to wade through the technical jargon and land on the same endpoint. Nice work!
 
-** isolate cloud fin **
+** *isolate cloud fin* **
 
 --- 
 
