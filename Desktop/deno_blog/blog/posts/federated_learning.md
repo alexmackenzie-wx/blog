@@ -1,6 +1,6 @@
 ---
 title: Federated Learning Primer
-publish_date: 2022-01-07
+publish_date: 2022-01-08
 ---
 
 *"pip install the-worlds-data"*
