@@ -5,6 +5,8 @@ publish_date: 2022-01-08
 
 *"pip install the-worlds-data"*
 
+*Should you wish to stay updated on future posts, subscribe to receive carrier pigeons at my [substack](https://whynowtech.substack.com/).*
+
 This is not how I thought I’d begin this breakdown but.. [Andrew Trask](https://github.com/iamtrask) has been keeping me up at night.
 
 Andrew has [described](https://www.youtube.com/watch?v=NJBBE_SN90A) an idyllic state where we can securely *“pip install the-worlds-data”* — ie give data scientists access to the world’s most sensitive data in a privacy-preserving, yet productive, way.
