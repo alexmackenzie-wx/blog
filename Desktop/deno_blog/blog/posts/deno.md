@@ -1,5 +1,5 @@
 ---
-title: Deno Primer & Cloud Isolates
+title: Deno Primer & Isolate Clouds
 publish_date: 2022-09-20
 ---
 
