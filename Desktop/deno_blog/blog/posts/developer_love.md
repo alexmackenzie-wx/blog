@@ -3,6 +3,8 @@ title: Developer Love
 publish_date: 2022-01-01
 ---
 
+"It's not even wrong"
+
 As I've [mentioned](https://mack.work/advice_aggregated) previously, venture is a business of aggregation. I've decided to "open source" some of the playbooks I've come across (in the public domain!) used by developer tools to build, developer love.
 
 [Pull requests](https://github.com/alexmackenzie-wx/blog) are encouraged if you have a learning to share! & I'm at alex[at]tapestry[dot]vc if you want to say hello.
