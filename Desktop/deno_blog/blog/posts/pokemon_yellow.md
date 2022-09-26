@@ -66,9 +66,8 @@ func _physics_process(delta):
 
 I found a Pallet Town sprite sheet & edited it in Figma. I used CollisionPolygon2D to create custom collision shapes in order to allow the player to walk on top of doors.
 
-
 <a href="https://www.loom.com/share/6ab42f0c40b54b29aeb368d481b20925">
-    <p>Loom Message - 25 September 2022 - Watch Video</p>
+    <p>Godot - Player Scene - Watch Video</p>
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6ab42f0c40b54b29aeb368d481b20925-with-play.gif">
 </a>
 
