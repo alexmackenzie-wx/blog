@@ -13,7 +13,10 @@ This post is a WIP but I'll document my development of the game + the accompanyi
 
 First, I created a "Player" scene that contains an AnimatedSprite & a CollisionShape2D. I created the player animations in [Piskel](piskelapp.com)
 
-https://www.loom.com/share/7ef3a576c5744129862a77acf13c3183
+<a href="https://www.loom.com/share/7ef3a576c5744129862a77acf13c3183">
+    <p>Pokemon_Yellow_Remastered - Godot Engine - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7ef3a576c5744129862a77acf13c3183-with-play.gif">
+</a>
 
 I then added code to make the player's animations dynamic & to enable the player to move. The code below is "GDScript" which is Godot's DSL that resembles Python. 
 
