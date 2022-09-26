@@ -71,3 +71,15 @@ https://www.loom.com/share/9bfb10ab4cb041498de85d1b6d977ab3
 
 Basic code below. 
 
+```
+extends Node
+
+func _ready():
+	$Menu.hide()
+	
+func _process(delta):
+	if Input.is_action_pressed("Menu_Open"):
+		$Menu.show()
+	if Input.is_action_pressed("Menu_Close"):
+		$Menu.hide()
+```
