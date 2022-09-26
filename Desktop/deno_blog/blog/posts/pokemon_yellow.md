@@ -18,7 +18,9 @@ First, I created a "Player" scene that contains an AnimatedSprite & a CollisionS
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7ef3a576c5744129862a77acf13c3183-with-play.gif">
 </a>
 
+
 I then added code to make the player's animations dynamic & to enable the player to move. The code below is "GDScript" which is Godot's DSL that resembles Python. 
+
 
 ```
 extends KinematicBody2D
@@ -64,13 +66,23 @@ func _physics_process(delta):
 
 I found a Pallet Town sprite sheet & edited it in Figma. I used CollisionPolygon2D to create custom collision shapes in order to allow the player to walk on top of doors.
 
-https://www.loom.com/share/6ab42f0c40b54b29aeb368d481b20925
+
+<a href="https://www.loom.com/share/6ab42f0c40b54b29aeb368d481b20925">
+    <p>Loom Message - 25 September 2022 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6ab42f0c40b54b29aeb368d481b20925-with-play.gif">
+</a>
+
 
 ### Creating a Menu
 
 I'm currently creating the popupmenu which a player can use to save their game, check out their inventory, etc. 
 
-https://www.loom.com/share/9bfb10ab4cb041498de85d1b6d977ab3
+
+<a href="https://www.loom.com/share/9bfb10ab4cb041498de85d1b6d977ab3">
+    <p>Godot - Pokemon_Yellow_Remastered (DEBUG) - 26 September 2022 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9bfb10ab4cb041498de85d1b6d977ab3-with-play.gif">
+</a>
+
 
 Basic code below. 
 
