@@ -87,6 +87,7 @@ I used Godot's "Focus" UI properties to enable an event-based navigation arrow t
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b469657f1b3e4cdaa896fcca137f3bb2-with-play.gif">
   </a>
 
+<br></br>
 See main menu code below. Go easy on me, I'll refactor l8r.
 
 ```
