@@ -91,6 +91,12 @@ Creating a report on the "state of" your domain, 1) positions you as a leader in
 
 ---
 
+**Social Media**
+
+- \>> [Supabase](https://twitter.com/supabase)
+
+---
+
 **Misc**
 
 - \>> [PlanetScale's](https://planetscale.com/blog/building-planetscale-with-planetscale) "building PlanetScale with PlanetScale".
