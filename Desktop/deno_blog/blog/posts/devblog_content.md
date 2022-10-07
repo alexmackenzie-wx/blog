@@ -39,6 +39,8 @@ It's important that you own the you vs. your competitor narrative (vs. your comp
 
 **Build vs. Buy**
 
+Developers often could *theoretically* build your product. It's important that you provide a list of factors that they should take into account when considering doing so. Bonus points if you can ~impartially point out why doing so would be a poor use of time/company resources.
+
 - \>> [LaunchDarkly](https://launchdarkly.com/build-vs-buy/)
 - \>> [Retool](https://retool.com/blog/3-experts-on-building-vs-buying-internal-tools/) 
 
@@ -86,3 +88,4 @@ Creating a report on the "state of" your domain, 1) positions you as a leader in
 
 - \>> [PlanetScale's](https://planetscale.com/blog/building-planetscale-with-planetscale) "building PlanetScale with PlanetScale".
 - \>> [Evervault Papers](https://evervault.com/papers)
+- \>> [Cillium](https://cilium.io/#:~:text=Weekly%20Interactive%20Cilium%0AIntroduction%20and%20Live%20Q%26A)'s Co-Founder runs a weekly "Install Fest". 
