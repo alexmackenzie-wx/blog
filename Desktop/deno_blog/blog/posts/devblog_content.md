@@ -85,6 +85,8 @@ Creating a report on the "state of" your domain, 1) positions you as a leader in
 - \>> [Retool](https://retool.com/blog/state-of-internal-tools-2021/)'s "State of Internal Tools". 
 - \>> [Vercel](https://vercel.com/blog/how-the-web-evolves)'s "State of the Web". 
 
+---
+
 **Educational Content**
 
 - \>> [Roboflow](https://blog.roboflow.com/what-is-coreml/)'s "ML in a minute".
