@@ -19,7 +19,7 @@ As I've [mentioned](https://mack.work/advice_aggregated) previously, venture is 
 
 Manifestos are the perfect medium to be opinionated/drop "hot takes". It's important to be thought of/loved for something; even if some cohort of developers will vehemently object. 
 
-- [Deno](https://deno.com/blog/series-a)
+- >> [Deno](https://deno.com/blog/series-a)
 - [Evervault](https://evervault.com/blog/manifesto)
 - [Planetscale](https://principles.planetscale.com/)
 - [LatchBio](https://latch.bio/about)
