@@ -5,7 +5,7 @@ publish_date: 2022-01-01
 
 "It's not even wrong"
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FOmZ7wGvY4SZXiySeFAqJPP%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+![image](https://user-images.githubusercontent.com/44316926/194576148-2ac110c3-29cf-4d3c-8de5-2e6835e0055f.png)
 
 *Should you wish to stay updated on future posts, subscribe to receive carrier pidgeons at my [substack](https://whynowtech.substack.com/).*
 
