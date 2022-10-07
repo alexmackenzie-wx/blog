@@ -54,6 +54,7 @@ Developers often could *theoretically* build your product. It's important that y
 
 **Porting from Competitor**
 
+- \>> [Northflank](https://northflank.com/blog/heroku-alternatives-and-how-to-migrate)'s Heroku alternatives & how to migrate.
 - \>> [PlanetScale](https://planetscale.com/blog/replace-your-django-database-with-planetscale)'s porting from your Django DB.
 - \>>
 - \>>
