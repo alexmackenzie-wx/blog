@@ -62,17 +62,17 @@ Developers often could *theoretically* build your product. It's important that y
 
 **Dev Community Pages**
 
-- \>>
-- \>>
-- \>>
+Spotlighting what your community builds with your product incentivises your users to continue to build with your product & often results in free marketing.  
+
+- \>> [Rasa](https://rasa.com/showcase/)'s community showcase. 
+- \>> [Scale](https://exchange.scale.com/)'s community exchange. 
+- \>> [Hugging Face](https://huggingface.co/spaces)'s community spaces. 
 
 ---
 
 **Content Partnerships**
 
-- \>>
-- \>>
-- \>>
+- \>> [Sysdig](https://medium.com/@SkyscannerEng/kubernetes-security-monitoring-at-scale-with-sysdig-falco-a60cfdb0f67a)'s appraisal via Skyscanner. 
 
 ---
 
@@ -84,8 +84,15 @@ Creating a report on the "state of" your domain, 1) positions you as a leader in
 - \>> [Retool](https://retool.com/blog/state-of-internal-tools-2021/)'s "State of Internal Tools". 
 - \>> [Vercel](https://vercel.com/blog/how-the-web-evolves)'s "State of the Web". 
 
+**Educational Content**
+
+- \>> [Roboflow](https://blog.roboflow.com/what-is-coreml/)'s "ML in a minute".
+
+---
+
 **Misc**
 
 - \>> [PlanetScale's](https://planetscale.com/blog/building-planetscale-with-planetscale) "building PlanetScale with PlanetScale".
 - \>> [Evervault Papers](https://evervault.com/papers)
-- \>> [Cillium](https://cilium.io/#:~:text=Weekly%20Interactive%20Cilium%0AIntroduction%20and%20Live%20Q%26A)'s Co-Founder runs a weekly "Install Fest". 
+- \>> [Cillium](https://cilium.io/#:~:text=Weekly%20Interactive%20Cilium%0AIntroduction%20and%20Live%20Q%26A)'s Co-Founder runs a weekly "Install Fest".
+- \>> [Bytebase](https://star-history.com) built the "Star History" tool that provides them with great marketing real estate.  
