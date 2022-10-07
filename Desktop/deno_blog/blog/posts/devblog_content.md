@@ -5,6 +5,8 @@ publish_date: 2022-01-01
 
 "It's not even wrong"
 
+![image](https://user-images.githubusercontent.com/44316926/194569861-fd7d788e-2e32-40dc-9cf8-e60a18c78536.png)
+
 *Should you wish to stay updated on future posts, subscribe to receive carrier pidgeons at my [substack](https://whynowtech.substack.com/).*
 
 As I've [mentioned](https://mack.work/advice_aggregated) previously, venture is a business of aggregation. I've decided to "open source" some of the content playbooks I've come across (in the public domain!) used by developer tools to build, developer love.
@@ -22,7 +24,7 @@ Manifestos are the perfect medium to be opinionated/drop "hot takes". It's impor
 
 **You vs. Your Competitor**
 
-It's important that you own the you vs. your competitor narrative. Conceding on certain areas/features creates legitimacy.
+It's important that you own the you vs. your competitor narrative (vs. your competitors!). Conceding on certain areas/features creates legitimacy.
 
 - [Roboflow](https://blog.roboflow.com/roboflow-vs-scale/)
 - [Contentful](https://www.contentful.com/r/knowledgebase/contentful-vs-wordpress-vs-drupal/)
