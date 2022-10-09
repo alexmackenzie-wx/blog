@@ -56,8 +56,6 @@ Developers often could *theoretically* build your product. It's important that y
 
 - \>> [Northflank](https://northflank.com/blog/heroku-alternatives-and-how-to-migrate)'s Heroku alternatives & how to migrate.
 - \>> [PlanetScale](https://planetscale.com/blog/replace-your-django-database-with-planetscale)'s porting from your Django DB.
-- \>>
-- \>>
 
 ---
 
@@ -115,7 +113,7 @@ My general rule of thumb here is to remember your audience/your content objectiv
 **Internal Developer Products**
 
 - \>> [Figma](https://www.figma.com/blog/livegraph-real-time-data-fetching-at-figma/)'s LiveGraph. 
-- \>> [Netflix]()'s
+- \>> [Netflix](https://netflixtechblog.com/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15)'s Ablaze.
 
 ---
 
