@@ -127,7 +127,7 @@ My general rule of thumb here is to remember your audience/your content objectiv
 
 ---
 
-**Misc**
+**Honourable Misc Mentions**
 
 - \>> [PlanetScale's](https://planetscale.com/blog/building-planetscale-with-planetscale) "building PlanetScale with PlanetScale".
 - \>> [Evervault Papers](https://evervault.com/papers)
