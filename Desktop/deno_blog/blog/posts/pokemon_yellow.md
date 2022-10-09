@@ -85,7 +85,7 @@ I used Godot's "Focus" UI properties to enable an event-based navigation arrow t
 <a href="https://www.loom.com/share/b469657f1b3e4cdaa896fcca137f3bb2">
     <p>Godot - Main Menu Scene</p>
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b469657f1b3e4cdaa896fcca137f3bb2-with-play.gif">
-  </a>
+</a>
 
 <br></br>
 See main menu code below. Go easy on me, I'll refactor l8r.
@@ -163,4 +163,58 @@ func _on_Exit_focus_exited():
 
 ```
 
-Next, I'll be creating the sub menus for each nav item. 
+Next, I created a sub menu for each item. This was pretty straightforward given I already built the UI focus logic. I plan on returning to the "Save" sub menu later once I grok working with databases/storage via Godot.  
+
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/cb2caaab940e4fc5b1ffc7650a0bd75e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+```
+if $Menu.visible == true:
+		if $Menu/VBoxContainer/Exit.has_focus():
+			if Input.is_action_pressed("ui_select"):
+				emit_signal("menu_closed")
+				$Menu.hide()
+		
+		if $Menu/VBoxContainer/Pokedex.has_focus():
+			if Input.is_action_pressed("ui_select"):
+				$Menu/Haunter.show()
+			if Input.is_action_pressed("ui_back"):
+				$Menu/Haunter.hide()
+
+```
+
+I had a bunch of fun building Professor Oak's Lab & the "scene switching" logic. Essentially what happens here is that when my animated spite enters the collision path of Oak's Lab's door, a signal fires which causes the "Oak's Lab" scene to be loaded. 
+
+<a href="https://www.loom.com/share/2472d31034ff42a49c39cdc81c597396">
+    <p>Loom Message - 9 October 2022 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2472d31034ff42a49c39cdc81c597396-with-play.gif">
+</a>
+
+Pallet Town script. 
+
+```
+extends Control
+
+func _on_Area2D_body_entered(body):
+	get_tree().change_scene("res://OaksLab.tscn")
+```
+
+Oak's Lab script. 
+
+```
+extends Node2D
+
+signal exited_oaks_lab_interior
+
+func _on_Area2D_body_entered(body):
+	emit_signal("location_changed")
+	get_tree().change_scene("res://Main.tscn")
+```
+
+Admittedly what I have not figured out yet (tips welcome!) is how to change the starting position of my animated sprite when exiting Oak's Lab so that the sprite appears as though he's just exited the door of the lab. Something to do with changing the position variable's value based on signals I suspect.
+
+I've just added a camera to the game which was pretty simple but has added a real sense of presence to the world.
+
+<a href="https://www.loom.com/share/873b7041192441e893512ba95af3021c">
+    <p>Loom Message - 9 October 2022 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/873b7041192441e893512ba95af3021c-with-play.gif">
+</a>
