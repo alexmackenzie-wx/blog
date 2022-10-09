@@ -104,6 +104,7 @@ Creating a report on the "state of" your domain, 1) positions you as a leader in
 
 - \>> [PlanetScale's](https://planetscale.com/blog/building-planetscale-with-planetscale) "building PlanetScale with PlanetScale".
 - \>> [Evervault Papers](https://evervault.com/papers)
+- \>> [Cloudsmith](https://cloudsmith.com/blog/halloween-story-worst-decision-ever/)'s DevOps Horror Stories.
 - \>> [Cillium](https://cilium.io/#:~:text=Weekly%20Interactive%20Cilium%0AIntroduction%20and%20Live%20Q%26A)'s Co-Founder runs a weekly "Install Fest".
 - \>> [Bytebase](https://star-history.com) built the "Star History" tool that provides them with great marketing real estate.
 - \>> [Evervault](https://evervault.com/blog/how-we-built-relay)'s how we built Relay.  
