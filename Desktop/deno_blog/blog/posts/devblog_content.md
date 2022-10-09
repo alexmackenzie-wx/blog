@@ -100,6 +100,7 @@ Creating a report on the "state of" your domain, 1) positions you as a leader in
 
 My general rule of thumb here is to remember your audience/your content objectives. You'll accumulate plenty of vanity impressions for writing a blog post on something generic (a la "what is Python") but if your audience are developers, are they really searching for something this high-level?
 
+- \>> [Sym's](https://blog.symops.com/2022/09/07/evolution-access-control-python/) evolution of access control via Python.
 - \>> [Roboflow](https://blog.roboflow.com/what-is-coreml/)'s "ML in a minute".
 - \>> [Mozart Data](https://www.mozartdata.com/post/what-is-data-reliability)'s what is data reliability. 
 - \>> [Shopify](https://shopify.engineering/what-is-nix)'s what is Nix. 
