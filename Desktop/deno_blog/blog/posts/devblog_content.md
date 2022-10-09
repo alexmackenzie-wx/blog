@@ -78,6 +78,13 @@ Spotlighting what your community builds with your product incentivises your user
 
 ---
 
+**How We Built X**
+
+- \>> [Linear's](https://linear.app/blog/how-we-built-project-updates) how we built Project Updates.
+- \>> [Evervault](https://evervault.com/blog/how-we-built-relay)'s how we built Relay. 
+
+---
+
 **The State Of X**
 
 Creating a report on the "state of" your domain, 1) positions you as a leader in the domain & 2) is great for backlinking if (you provide unique data)
@@ -105,6 +112,13 @@ My general rule of thumb here is to remember your audience/your content objectiv
 
 ---
 
+**Internal Developer Products**
+
+- \>> [Figma](https://www.figma.com/blog/livegraph-real-time-data-fetching-at-figma/)'s LiveGraph. 
+- \>> [Netflix]()'s
+
+---
+
 **Social Media**
 
 - \>> [Supabase](https://twitter.com/supabase)
@@ -118,4 +132,4 @@ My general rule of thumb here is to remember your audience/your content objectiv
 - \>> [Cloudsmith](https://cloudsmith.com/blog/halloween-story-worst-decision-ever/)'s DevOps Horror Stories.
 - \>> [Cillium](https://cilium.io/#:~:text=Weekly%20Interactive%20Cilium%0AIntroduction%20and%20Live%20Q%26A)'s Co-Founder runs a weekly "Install Fest".
 - \>> [Bytebase](https://star-history.com) built the "Star History" tool; great marketing real estate.
-- \>> [Evervault](https://evervault.com/blog/how-we-built-relay)'s how we built Relay.  
+  
