@@ -1,5 +1,5 @@
 ---
-title: Remaking Pokemon Yellow in Godot [WIP]
+title: Remaking Pokemon Yellow in Godot
 publish_date: 2022-09-22
 ---
 
@@ -212,9 +212,16 @@ func _on_Area2D_body_entered(body):
 
 Admittedly what I have not figured out yet (tips welcome!) is how to change the starting position of my animated sprite when exiting Oak's Lab so that the sprite appears as though he's just exited the door of the lab. Something to do with changing the position variable's value based on signals I suspect.
 
-I've just added a camera to the game which was pretty simple but has added a real sense of presence to the world.
+Added a camera to the game which was pretty simple but has added a real sense of presence to the world.
 
 <a href="https://www.loom.com/share/873b7041192441e893512ba95af3021c">
     <p>Loom Message - 9 October 2022 - Watch Video</p>
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/873b7041192441e893512ba95af3021c-with-play.gif">
+</a>
+
+Most recently I've been working on the in-game audio logic. Brace yourself to be hit with a whole lotta nostalgia..
+
+<a href="https://www.loom.com/share/bde15c2d77fb46a3ace31b1ec02649c5">
+    <p>Loom Message - 9 October 2022 - Watch Video</p>
+    <img style="max-width:300px;" src="null">
 </a>
