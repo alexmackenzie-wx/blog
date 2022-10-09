@@ -9,7 +9,7 @@ The good folk at Isovalent were kind enough to welcome me "on stage" to share a 
 
 This was a cool experience as the very first instance of [“Why Now”](https://whynowtech.substack.com/) was a primer on eBPF. Thanks to those of you who subbed from day one!
 
-Should you wish to stay updated on future posts, subscribe to receive carrier pigeons at my substack.
+*Should you wish to stay updated on future posts, subscribe to receive carrier pigeons at my [substack](https://whynowtech.substack.com/).*
 
 Video below. Enjoy! 
 
