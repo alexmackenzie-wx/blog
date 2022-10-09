@@ -98,6 +98,13 @@ My general rule of thumb here is to remember your audience/your content objectiv
 
 ---
 
+**Developer Competitions**
+
+- \>> [Snyk](https://snyk.io/ctf/)'s Annual "Capture the Flag".
+- \>> [StockX](https://www.kaggle.com/datasets/hudsonstuck/stockx-data-contest)'s Annual Data Contest.
+
+---
+
 **Social Media**
 
 - \>> [Supabase](https://twitter.com/supabase)
