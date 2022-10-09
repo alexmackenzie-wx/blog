@@ -48,6 +48,8 @@ Developers often could *theoretically* build your product. It's important that y
 
 **Buyer's Guide**
 
+It's, naturually, important to own the criteria that potential buyers should take into account when evaluating a solution. I haven't yet found a developer tool do a good job of buyers' guides, likely because dev tools often follow a bottoms-up gtm. EqualTo does a great job.  
+
 - \>> [EqualTo](https://www.equalto.com/resources/buyers-guide-to-sales-commission-software)
 
 ---
@@ -72,7 +74,8 @@ Spotlighting what your community builds with your product incentivises your user
 **Content Partnerships**
 
 - \>> [Sysdig](https://medium.com/@SkyscannerEng/kubernetes-security-monitoring-at-scale-with-sysdig-falco-a60cfdb0f67a)'s appraisal via Skyscanner.
-- \>> [Hex](https://hex.tech/blog/#:~:text=Sep%2028%2C%202022-,ELSEWHERE,-Hex%20scores%20%2452M) has an "elsewhere" section within their blog page. 
+- \>> [Hex](https://hex.tech/blog/#:~:text=Sep%2028%2C%202022-,ELSEWHERE,-Hex%20scores%20%2452M) has an "elsewhere" section within their blog page.
+- \>> [Great Expectations](https://greatexpectations.io/blog/better-together-zenml-and-great-expectations) x ZenML. 
 
 ---
 
@@ -128,6 +131,8 @@ My general rule of thumb here is to remember your audience/your content objectiv
 - \>> [PlanetScale's](https://planetscale.com/blog/building-planetscale-with-planetscale) "building PlanetScale with PlanetScale".
 - \>> [Evervault Papers](https://evervault.com/papers)
 - \>> [Cloudsmith](https://cloudsmith.com/blog/halloween-story-worst-decision-ever/)'s DevOps Horror Stories.
+- \>> [Linear's](https://linear.app/readme) ReadMe.
 - \>> [Cillium](https://cilium.io/#:~:text=Weekly%20Interactive%20Cilium%0AIntroduction%20and%20Live%20Q%26A)'s Co-Founder runs a weekly "Install Fest".
 - \>> [Bytebase](https://star-history.com) built the "Star History" tool; great marketing real estate.
+- \>> [Stripe's](https://twitter.com/avstorm/status/1280367397279608833) homepage easter egg. 
   
