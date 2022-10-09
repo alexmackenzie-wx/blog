@@ -1,5 +1,5 @@
 ---
-title: eBPF Summit '22
+title: Speaking at eBPF Summit '22
 publish_date: 2022-09-23
 ---
 
@@ -13,4 +13,4 @@ Should you wish to stay updated on future posts, subscribe to receive carrier pi
 
 Video below. Enjoy! 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2jNCQwgy0fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://www.youtube.com/watch?v=2jNCQwgy0fI](https://www.youtube.com/watch?v=2jNCQwgy0fI)
