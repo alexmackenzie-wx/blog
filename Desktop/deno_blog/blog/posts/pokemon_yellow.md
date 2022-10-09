@@ -218,10 +218,3 @@ Added a camera to the game which was pretty simple but has added a real sense of
     <p>Loom Message - 9 October 2022 - Watch Video</p>
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/873b7041192441e893512ba95af3021c-with-play.gif">
 </a>
-
-Most recently I've been working on the in-game audio logic. Brace yourself to be hit with a whole lotta nostalgia..
-
-<a href="https://www.loom.com/share/bde15c2d77fb46a3ace31b1ec02649c5">
-    <p>Loom Message - 9 October 2022 - Watch Video</p>
-    <img style="max-width:300px;" src="null">
-</a>
