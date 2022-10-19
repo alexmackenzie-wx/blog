@@ -86,6 +86,12 @@ Spotlighting what your community builds with your product incentivises your user
 
 ---
 
+**How to Do X**
+
+- \>> [Northflank](https://northflank.com/guides/deploy-grafana-on-northflank)'s how to deploy X on Northflank. 
+
+---
+
 **The State Of X**
 
 Creating a report on the "state of" your domain, 1) positions you as a leader in the domain & 2) is great for backlinking if (you provide unique data)
