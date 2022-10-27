@@ -1,5 +1,5 @@
 ---
-title: Nix
+title: Nix Primer
 publish_date: 2022-10-31
 ---
 
