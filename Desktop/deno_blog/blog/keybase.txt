@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/alexmackenzie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mack.work
+  * I am alexmackenzie (https://keybase.io/alexmackenzie) on keybase.
+  * I have a public key ASDHZGdoCUINP01vgJ_9Y3ZX0pl6r0LwPRhu6Uk9dqJp-wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c764676809420d3f4d6f809ffd637657d2997aaf42f03d186ee9493d76a269fb0a",
+      "host": "keybase.io",
+      "kid": "0120c764676809420d3f4d6f809ffd637657d2997aaf42f03d186ee9493d76a269fb0a",
+      "uid": "019cdf03f5f054c31e68910e6fc2fc19",
+      "username": "alexmackenzie"
+    },
+    "merkle_root": {
+      "ctime": 1667506498,
+      "hash": "5e799f43922fa080d4ffbab61d4cbf2aa2c140d0a2ca7c56b8cd9e9fe02148c51196496e38cf1b660d6043c11725f9ea1f0deb208252ecb19595ff544bc3f8cb",
+      "hash_meta": "16b3fe24b51328381485d3668397069cc06998c596eb23c8095dc2069d88dc96",
+      "seqno": 23483215
+    },
+    "service": {
+      "entropy": "ljgUYCGi4MaDsq6LUoJolxFt",
+      "hostname": "mack.work",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1667506532,
+  "expire_in": 504576000,
+  "prev": "fafbfe84728d0dd78e07323f920420e68031804297449c1abca3cff068afa61c",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgx2RnaAlCDT9Nb4Cf/WN2V9KZeq9C8D0YbulJPXaiafsKp3BheWxvYWTESpcCB8Qg+vv+hHKNDdeOBzI/kgQg5oAxgEKXRJwavKPP8GivphzEIFEnNrLJf/6KHh5xNZdJGuOYdN69fXgMQWJ9YbqbOUhIAgHCo3NpZ8RAl0Z+d7MNhFvSuNUJ2DYlIx782aNpwFZ3d31Kor21VOUrocYfyKoxtZlhvNf0bn0lLaJ8vXZpVHw9zcgp7erDD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHbUF8wXOmA41dQHnpIMRCDpOsDy29zAvV2s/kTjebIho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexmackenzie
+
+==================================================================
