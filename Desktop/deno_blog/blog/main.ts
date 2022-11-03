@@ -9,6 +9,7 @@ blog({
     { title: "Email", url: "mailto:alex@tapestry.vc" },
     { title: "GitHub", url: "https://github.com/alexmackenzie-wx" },
     { title: "Twitter", url: "https://twitter.com/alex__mackenzie" },
+    { title: "Keybase", url: "https://keybase.io/alexmackenzie"},
   ],
   author: "Alex Mackenzie",
   background: "#f9f9f9",
