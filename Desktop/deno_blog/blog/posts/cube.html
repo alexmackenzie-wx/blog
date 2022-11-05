@@ -23,7 +23,10 @@
 			light.position.set(-1, 2, 4);
   			scene.add(light);
 
-			const geometry = new THREE.BoxGeometry( 1, 1, 1 );
+			const radius = 7;  // ui: radius
+			const detail = 2;  // ui: detail
+			const geometry = new THREE.DodecahedronGeometry(radius, detail);
+			
 			const material = new THREE.MeshPhongMaterial( { color: 0x00ff00 } );
 			const cube = new THREE.Mesh( geometry, material );
 			scene.add( cube );
