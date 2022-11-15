@@ -19,11 +19,13 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Not all revenue is created equal" - [Bill Gurley](https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/) on meta financial analysis.
 
+- "You can still improve an axe" - [Jeff Bezos](https://twitter.com/jeffbezos/status/1579252993903710209?s=46&t=e_5RETxF9pcys_FJLcDziQ) on invention. 
+
 - "Work with life's work entrepreneurs" - [Geoff Lewis](https://twitter.com/GeoffLewisOrg/status/1535389983661559809) on investing in upside & resiliency. 
 
-- "10*9" - [Roelof Botha](https://www.protocol.com/sequoia-roelof-botha) on investing exceptionally vs. incrementally. 
+- "What's the last step" - [Palmer Luckey](https://www.youtube.com/watch?v=dMhVrYhQUsk) on how to avoid working on (or investing in!) incremental ideas. 
 
-- "Accidents of history" - [Sam Bankman-Fried](https://conversationswithtyler.com/episodes/sam-bankman-fried/) on understanding "why then" vs. "why now".
+- "10*9" - [Roelof Botha](https://www.protocol.com/sequoia-roelof-botha) on investing exceptionally vs. incrementally. 
 
 - "World's most important companies" - [Bryan Singerman](https://www.joincolossus.com/episodes/34530101/singerman-investing-in-the-best-founders). "Obvious" - but useful way to keep incremental bias/adverse selection in check.
 
@@ -52,5 +54,9 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 - "Look for what sucks" - [Josh Wolfe](https://podcasts.apple.com/us/podcast/josh-wolfe-the-tech-imperative/id1154105909?i=1000436137469) on investing in what matters. 
 
 - "Multi product companies" - [Bedrock Capital](https://www.bedrockcap.com/letters/rippling-is-built-different) on assessing the feasibility of second / third acts by companies.
+
+- "Truth seeking" - [Benchmark](https://www.acquired.fm/episodes/benchmark-part-ii-the-dinner) on due diligence.
+
+- "Ask the same question, 10 different ways" - [Wes Chan](https://www.thetwentyminutevc.com/wes-chan/) on seeking the truth. 
 
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
