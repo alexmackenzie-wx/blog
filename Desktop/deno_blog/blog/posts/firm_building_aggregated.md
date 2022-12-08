@@ -1,6 +1,6 @@
 ---
-title: Firm Building Aggregated
-publish_date: 2022-07-31
+title: Firm Building Aggregated [wip]
+publish_date: 2022-01-01
 ---
 
 A perpetually evolving doc of the resources I've received or collected about building a venture firm.
