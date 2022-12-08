@@ -1,5 +1,5 @@
 ---
-title: Developer Content
+title: Developer Content Aggregated
 publish_date: 2022-01-01
 ---
 
