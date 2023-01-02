@@ -37,6 +37,12 @@ It's important that you own the you vs. your competitor narrative (vs. your comp
 
 ---
 
+**Company / Product Launches**
+
+- \>> [Neon](https://neon.tech/developer-days-1/)
+
+---
+
 **Build vs. Buy**
 
 Developers often could *theoretically* build your product. It's important that you provide a list of factors that they should take into account when considering doing so. Bonus points if you can ~impartially point out why doing so would be a poor use of time/company resources.
