@@ -9,17 +9,17 @@ A perpetually evolving doc of the advice I've received or inherited about the bu
 
 Below you'll find my ~unique aggregate of learnings about the business of venture - beyond the "usual" / "technical".    
 
-- \>> "Suck the oxygen out of the air" - [Pat Grady](https://twitter.com/gradypb/status/1500853918036729856?s=20&t=nBg6rHzCk0fTZD5avEMTEg) on winning founder mind share. (about Sarah Guo!)
+- "Suck the oxygen out of the air" - [Pat Grady](https://twitter.com/gradypb/status/1500853918036729856?s=20&t=nBg6rHzCk0fTZD5avEMTEg) on winning founder mind share. (about Sarah Guo!)
 
-- \>> "Do good deals" - Anon on becoming a great investor. "Obvious" - but very easy to climb the wrong hill.
+- "Do good deals" - Anon on becoming a great investor. "Obvious" - but very easy to climb the wrong hill.
 
-- \>> "Look at the steepness of the slope" - [Geoff Lewis](https://www.youtube.com/watch?v=gd8ljRyBmTQ) on assessing the MOIC of people vs. companies.
+- "Look at the steepness of the slope" - [Geoff Lewis](https://www.youtube.com/watch?v=gd8ljRyBmTQ) on assessing the MOIC of people vs. companies.
 
-- \>> "Rock, sand & water" - [Sarah Tavel](https://sarahtavel.medium.com/the-opportunity-and-risks-for-consumer-startups-in-a-social-distancing-world-a-framework-for-15f65e2fbdff) with a framework on consumers' time allocation.
+- "Rock, sand & water" - [Sarah Tavel](https://sarahtavel.medium.com/the-opportunity-and-risks-for-consumer-startups-in-a-social-distancing-world-a-framework-for-15f65e2fbdff) with a framework on consumers' time allocation.
 
-- \>> "Not all revenue is created equal" - [Bill Gurley](https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/) on meta financial analysis.
+- "Not all revenue is created equal" - [Bill Gurley](https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/) on meta financial analysis.
 
-- \>> "You can still improve an axe" - [Jeff Bezos](https://twitter.com/jeffbezos/status/1579252993903710209?s=46&t=e_5RETxF9pcys_FJLcDziQ) on invention. 
+- "You can still improve an axe" - [Jeff Bezos](https://twitter.com/jeffbezos/status/1579252993903710209?s=46&t=e_5RETxF9pcys_FJLcDziQ) on invention. 
 
 - "Work with life's work entrepreneurs" - [Geoff Lewis](https://twitter.com/GeoffLewisOrg/status/1535389983661559809) on investing in upside & resiliency. 
 
