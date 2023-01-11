@@ -8,3 +8,4 @@ publish_date: 2022-01-31
 - npm: used by 11M+ developers. As of Jan '23. [Source](https://www.npmjs.com/)
 - Travis CI: used by 700k+ developers. As of Jan '23. [Source](https://www.travis-ci.com/about-us/)
 - Bitrise: used by 100k+ developers. As of Jan '23. [Source](https://bitrise.io/)
+- Sourcegraph: used by 1.8M developers. As of Jan '23. [Source](https://about.sourcegraph.com/)
