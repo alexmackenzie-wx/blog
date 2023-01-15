@@ -9,3 +9,4 @@ publish_date: 2022-01-31
 - Travis CI: used by 700k+ developers. As of Jan '23. [Source](https://www.travis-ci.com/about-us/)
 - Bitrise: used by 100k+ developers. As of Jan '23. [Source](https://bitrise.io/)
 - Sourcegraph: used by 1.8M developers. As of Jan '23. [Source](https://about.sourcegraph.com/)
+- Linear: used by 1,000+ companies. As of Jan '22. [Source](https://twitter.com/karrisaarinen/status/1480659739625209861?s=20&t=WjDLYUgEpr_fFwTDaLIsjg)
