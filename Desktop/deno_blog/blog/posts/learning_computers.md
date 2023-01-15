@@ -3,6 +3,8 @@ title: Learning Computers
 publish_date: 2022-01-31
 ---
 
+A collection of the best resources, primers and tutorials that I've come across about our mechnical counterparts. 
+
 **CPUs**
 - Explanation about clock speed and clock pulses in detail. [Source](https://www.onlinecmag.com/clock-speed-and-clock-pulses/)
 - How interupts are handled in a processor -- a detailed view. [Source](https://www.linkedin.com/pulse/how-interrupts-handled-processor-detailed-view-vasuki-shankar)
