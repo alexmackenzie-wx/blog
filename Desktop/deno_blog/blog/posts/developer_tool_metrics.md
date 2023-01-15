@@ -1,7 +1,9 @@
 ---
-title: Public! Developer Tool Metrics [wip]
+title: Developer Tool Metrics
 publish_date: 2022-01-31
 ---
+
+Every (public!) developer tool usage/revenue metric I've come across + sources. 
 
 - Docker: used by 20M developers, 1M paid subs. As of Dec '22. [Source](https://www.linkedin.com/posts/asethi_docker-the-phoenix-saga-activity-7003572185839677440-eUk3/)
 - CircleCI: used by 1M+ developers. As of Jan '23. [Source](https://circleci.com/)
