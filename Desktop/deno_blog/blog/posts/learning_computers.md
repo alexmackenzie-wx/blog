@@ -15,6 +15,7 @@ A collection of the best resources, primers and tutorials that I've come across 
 
 **Computer Graphics**
 - Stanford - The Graphics Pipeline and OpenGL. [Source](https://stanford.edu/class/ee267/lectures/lecture2.pdf)
+- Introduction to the graphics pipeline for gaming. [Source](https://www.gamedev.net/tutorials/programming/graphics/introduction-to-the-graphics-pipeline-r3344/)
 
 **Build Systems**
 
