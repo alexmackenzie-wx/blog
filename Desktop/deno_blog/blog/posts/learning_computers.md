@@ -11,6 +11,9 @@ publish_date: 2022-01-31
 - What the heck is my PATH, and how do I get it to do what I want? [Source](https://astrobiomike.github.io/unix/modifying_your_path)
 - Unix Crash Course. [Source](https://astrobiomike.github.io/unix/unix-intro)
 
+**Computer Graphics**
+- Stanford - The Graphics Pipeline and OpenGL. [Source](https://stanford.edu/class/ee267/lectures/lecture2.pdf)
+
 **Build Systems**
 
 - Build System Insights [Source](https://ruudvanasseldonk.com/2018/09/03/build-system-insights)
