@@ -3,6 +3,10 @@ title: Learning Computers
 publish_date: 2022-01-31
 ---
 
+**CPUs**
+- Explanation about clock speed and clock pulses in detail. [Source](https://www.onlinecmag.com/clock-speed-and-clock-pulses/)
+
+**Unix OS'**
 - What the heck is my PATH, and how do I get it to do what I want? [Source](https://astrobiomike.github.io/unix/modifying_your_path)
 - Unix Crash Course. [Source](https://astrobiomike.github.io/unix/unix-intro)
 
