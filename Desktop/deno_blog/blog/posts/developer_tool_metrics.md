@@ -12,3 +12,4 @@ Every (public!) developer tool usage/revenue metric I've come across + sources.
 - Bitrise: used by 100k+ developers. As of Jan '23. [Source](https://bitrise.io/)
 - Sourcegraph: used by 1.8M developers. As of Jan '23. [Source](https://about.sourcegraph.com/)
 - Linear: used by 1,000+ companies. As of Jan '22. [Source](https://twitter.com/karrisaarinen/status/1480659739625209861?s=20&t=WjDLYUgEpr_fFwTDaLIsjg)
+- BugSnag: used by 6,000+ eng teams. As of Jan '22. [Source](https://www.bugsnag.com/)
