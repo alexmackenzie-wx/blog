@@ -18,6 +18,7 @@ A collection of the best resources, primers and tutorials that I've come across 
 - Introduction to the graphics pipeline for gaming. [Source](https://www.gamedev.net/tutorials/programming/graphics/introduction-to-the-graphics-pipeline-r3344/)
 - Lower-Level Graphics API - What does it mean? [Source](https://asawicki.info/news_1601_lower-level_graphics_api_-_what_does_it_mean.html) 
 - Graphics shaders - University of Amsterdam [Source](https://www.cs.vu.nl/~eliens/download/literatuur-shaders.pdf)
+- The Concepts of WebGL [Source](https://hacks.mozilla.org/2013/04/the-concepts-of-webgl/)
 
 **Build Systems**
 
