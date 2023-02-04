@@ -26,7 +26,7 @@ A collection of the best resources, primers and tutorials that I've come across 
 - Build System Insights [Source](https://ruudvanasseldonk.com/2018/09/03/build-system-insights)
 - Build Tools as Pure Functional Programs [Source](Build Tools as Pure Functional Programs)
 
-**Favorite Developer Blogs**
+**Favourite Developer Blogs**
 - Dzmitry Malyshau. [Here](https://kvark.github.io/)
 - Stephen Gutekanst. [Here](https://slimsag.com/) 
 - Mitchell Hashimoto. [Here](https://mitchellh.com/)
