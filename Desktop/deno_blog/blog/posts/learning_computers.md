@@ -20,7 +20,8 @@ A collection of the best resources, primers and tutorials that I've come across 
 - Graphics shaders - University of Amsterdam. [Source](https://www.cs.vu.nl/~eliens/download/literatuur-shaders.pdf)
 - The Concepts of WebGL. [Source](https://hacks.mozilla.org/2013/04/the-concepts-of-webgl/)
 - Difference between rasterization and ray tracing. [Source](https://blogs.nvidia.com/blog/2018/03/19/whats-difference-between-ray-tracing-rasterization/)
-- Real-Time Ray Tracing in WebGPU. [Source](https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/) 
+- Real-Time Ray Tracing in WebGPU. [Source](https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/)
+- Raw WebGPU. [Source](https://alain.xyz/blog/raw-webgpu) 
 
 **Build Systems**
 - Build System Insights [Source](https://ruudvanasseldonk.com/2018/09/03/build-system-insights)
