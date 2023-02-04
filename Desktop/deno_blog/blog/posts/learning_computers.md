@@ -19,9 +19,9 @@ A collection of the best resources, primers and tutorials that I've come across 
 - Lower-Level Graphics API - What does it mean? [Source](https://asawicki.info/news_1601_lower-level_graphics_api_-_what_does_it_mean.html) 
 - Graphics shaders - University of Amsterdam. [Source](https://www.cs.vu.nl/~eliens/download/literatuur-shaders.pdf)
 - The Concepts of WebGL. [Source](https://hacks.mozilla.org/2013/04/the-concepts-of-webgl/)
-- Real-Time Ray Tracing in WebGPU.[Source](https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/) 
+- Difference between rasterization and ray tracing. [Source](https://blogs.nvidia.com/blog/2018/03/19/whats-difference-between-ray-tracing-rasterization/)
+- Real-Time Ray Tracing in WebGPU. [Source](https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/) 
 
 **Build Systems**
-
 - Build System Insights [Source](https://ruudvanasseldonk.com/2018/09/03/build-system-insights)
 - Build Tools as Pure Functional Programs [Source](Build Tools as Pure Functional Programs)
