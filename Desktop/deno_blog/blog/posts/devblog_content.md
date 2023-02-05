@@ -143,6 +143,7 @@ My general rule of thumb here is to remember your audience/your content objectiv
 
 - \>> [PlanetScale's](https://planetscale.com/blog/building-planetscale-with-planetscale) "building PlanetScale with PlanetScale".
 - \>> [Evervault Papers](https://evervault.com/papers)
+- \>> [Fly](https://fly.io/ruby-dispatch/) has carved out sections of its blog for framework-specific posts. E.g., "The Ruby Dispatch". 
 - \>> [Cloudsmith](https://cloudsmith.com/blog/halloween-story-worst-decision-ever/)'s DevOps Horror Stories.
 - \>> [Linear's](https://linear.app/readme) ReadMe.
 - \>> [Cillium](https://cilium.io/#:~:text=Weekly%20Interactive%20Cilium%0AIntroduction%20and%20Live%20Q%26A)'s Co-Founder runs a weekly "Install Fest".
