@@ -29,15 +29,15 @@ Without revealing too much, let’s just say that up until this point via “Web
 
 Within this primer we’ll discuss:
 
-- >> The history of GPUs.
+- ⇀ The history of GPUs.
 
-- >> The “graphics pipeline”.
+- ⇀ The “graphics pipeline”.
 
-- >> The history of graphics APIs.
+- ⇀ The history of graphics APIs.
 
-- >> WebGPU. You’d hope!
+- ⇀ WebGPU. You’d hope!
 
-- >> What trends +/ applications WebGPU may unlock +/ promulgate.
+- ⇀ What trends +/ applications WebGPU may unlock +/ promulgate.
 
 ---
 
@@ -95,15 +95,15 @@ We’ll focus on 3D graphics rendering as I think it better illustrates the “g
 
 A “scene” is a foundational concept in 3D whereby each scene consists of:
 
-- >> 3D geometry (ie “vectors”).
+- ⇀ 3D geometry (ie “vectors”).
 
-- >> Transformations.
+- ⇀ Transformations.
 
-- >> Lights.
+- ⇀ Lights.
 
-- >> Material Properties.
+- ⇀ Material Properties.
 
-- >> ~A Camera / View.
+- ⇀ ~A Camera / View.
 
 For graphics newcomers I suspect this all seems a little abstruse. To ground what I just said into reality, pick up an object around you.. perhaps a computer mouse?
 
@@ -131,11 +131,11 @@ Ok, so we know what a 3D scene is comprised of & why. How does this scene get co
 
 Graphics pipelines vary. However, at a very high-level, what happens here is:
 
-- >> We first create this 3D scene via a 3D creation application such as [Godot](https://mack.work/pokemon_yellow) (my favourite piece of software on this here earth!). We then export this 3D scene in an appropriate file format, e.g., .[glTF](https://www.threekit.com/blog/gltf-everything-you-need-to-know#:~:text=is%20using%20it.-,What%20is%20glTF%3F,-The%20GL%20Transmission).
+- ⇀ We first create this 3D scene via a 3D creation application such as [Godot](https://mack.work/pokemon_yellow) (my favourite piece of software on this here earth!). We then export this 3D scene in an appropriate file format, e.g., .[glTF](https://www.threekit.com/blog/gltf-everything-you-need-to-know#:~:text=is%20using%20it.-,What%20is%20glTF%3F,-The%20GL%20Transmission).
 
-- >> We then pass this file (ie data) from our CPU to our GPU. This data is an input into the graphics pipeline. This pipeline is a chain of functions (aka “shaders”) that are executed by the GPU.
+- ⇀ We then pass this file (ie data) from our CPU to our GPU. This data is an input into the graphics pipeline. This pipeline is a chain of functions (aka “shaders”) that are executed by the GPU.
 
--  >> These functions ultimately “draw” (ie place, colour and shade) pixels on a screen that represent the supplied 3D scene.
+- ⇀ These functions ultimately “draw” (ie place, colour and shade) pixels on a screen that represent the supplied 3D scene.
 
 >**Technical Detail:** functions in programming are exactly the same concept that you learned in math. They (typically) receive data (arguments), do something with this data (e.g., add two integers together) and “return” a result.
 
@@ -267,13 +267,13 @@ Unfortunately, to cut a long-story-short, Mantle’s public development was disc
 
 This donation led to the release of “[Vulkan](https://www.vulkan.org/)” by Khronos. As one would expect, Vulkan exposes Mantle’s low-level GPU access, but the API also offers:
 
-- >> A single API for both desktop and mobile graphics devices; whereas previously these platforms were split between the OpenGL and OpenGL ES (“embedded systems”) APIs respectively.
+- ⇀ A single API for both desktop and mobile graphics devices; whereas previously these platforms were split between the OpenGL and OpenGL ES (“embedded systems”) APIs respectively.
 
-- >> Cross-platform compatibility. Vulkan is available on multiple operating systems and devices; where as Direct3D 12 is, as you might expect, only available on Windows/Xbox (boo).
+- ⇀ Cross-platform compatibility. Vulkan is available on multiple operating systems and devices; where as Direct3D 12 is, as you might expect, only available on Windows/Xbox (boo).
 
-- >> Reduced CPU load by offloading (to the GPU) computations traditionally handled by the CPU.
+- ⇀ Reduced CPU load by offloading (to the GPU) computations traditionally handled by the CPU.
 
-- >> A pretty badass, if not a little disconcerting.. new brand identity.
+- ⇀ A pretty badass, if not a little disconcerting.. new brand identity.
 
 ![image](https://user-images.githubusercontent.com/44316926/216821080-20044320-35d6-4b7b-9302-0c34cf1f6c79.png)
 
@@ -309,15 +309,15 @@ At this point, we could go deeper into WebGPU’s spec, tackling its abstraction
 
 So instead, I figured we’d move onto some final predictions about what trends and applications WebGPU may unlock and/or promulgate:
 
-- >> **[BOTW](https://www.zelda.com/breath-of-the-wild/)-Esque Graphics:** Ironically, the real magic here is when render and compute pipelines are blended. Leveraging the compute pipeline facilitates modern graphics rendering techniques a la [ray tracing](https://developer.nvidia.com/rtx/ray-tracing) within the web browser. Expect cool new occlusion / refraction-based UIs.
+- ⇀ **[BOTW](https://www.zelda.com/breath-of-the-wild/)-Esque Graphics:** Ironically, the real magic here is when render and compute pipelines are blended. Leveraging the compute pipeline facilitates modern graphics rendering techniques a la [ray tracing](https://developer.nvidia.com/rtx/ray-tracing) within the web browser. Expect cool new occlusion / refraction-based UIs.
 
-- >> **ML in-Browser:** Tensorflow.js (or ONNX.js) [provides](https://www.tensorflow.org/js/demos) a bunch of great demos on why you may want to train a ML model in a web browser. Again, this isn’t exactly “novel” but WebGPU will make the process more performant +/ specific. There’s also a world where offloading training to your users’ local machine makes sense from a latency, cost + privacy-preserving (long-live [federated learning](https://whynowtech.substack.com/p/federated-learning)) perspective.
+- ⇀ **ML in-Browser:** Tensorflow.js (or ONNX.js) [provides](https://www.tensorflow.org/js/demos) a bunch of great demos on why you may want to train a ML model in a web browser. Again, this isn’t exactly “novel” but WebGPU will make the process more performant +/ specific. There’s also a world where offloading training to your users’ local machine makes sense from a latency, cost + privacy-preserving (long-live [federated learning](https://whynowtech.substack.com/p/federated-learning)) perspective.
 
-- >> **“Serious Software” in-Browser:** Broadly, serious software (think Blender, Unreal, AE, etc) is OS-native vs. web-native due to its performance requirements. Collaboration flows (as Figma has proven) change entirely when you can afford to be “multiplayer-first” (thanks to web browsers). I’m curious if this creates sufficient breathing room to dethrone the likes of Unity or Autodesk.
+- ⇀ **“Serious Software” in-Browser:** Broadly, serious software (think Blender, Unreal, AE, etc) is OS-native vs. web-native due to its performance requirements. Collaboration flows (as Figma has proven) change entirely when you can afford to be “multiplayer-first” (thanks to web browsers). I’m curious if this creates sufficient breathing room to dethrone the likes of Unity or Autodesk.
 
-- >> **“Serious Games” in-Browser:** there have been numerous [false starts](https://stadia.google.com/gg/) in this space and it’s still very much TBD on the local vs. cloud gaming debate — perhaps not mutually exclusive! Either way, with WebGPU it’s far more plausible that there’s a future where I’ll be playing The Elder Scrolls with some mates within a web browser. How cool.
+- ⇀ **“Serious Games” in-Browser:** there have been numerous [false starts](https://stadia.google.com/gg/) in this space and it’s still very much TBD on the local vs. cloud gaming debate — perhaps not mutually exclusive! Either way, with WebGPU it’s far more plausible that there’s a future where I’ll be playing The Elder Scrolls with some mates within a web browser. How cool.
 
-- >> **Browser-OS:** As teased, the browser is increasingly being bestowed with the functionality of native operating systems. Future applications will all be expected to look/work like [Linear](https://linear.app/) — offline mode enabled, multiplayer-first, etc. This trend is being driven by many innovations, WebGPU is a constituent.
+- ⇀ **Browser-OS:** As teased, the browser is increasingly being bestowed with the functionality of native operating systems. Future applications will all be expected to look/work like [Linear](https://linear.app/) — offline mode enabled, multiplayer-first, etc. This trend is being driven by many innovations, WebGPU is a constituent.
 
 ** _WebGPU — fin_ **
 
