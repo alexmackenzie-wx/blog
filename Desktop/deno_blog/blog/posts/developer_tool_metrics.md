@@ -13,4 +13,5 @@ Every (public!) developer tool usage/revenue metric I've come across + sources.
 - Sourcegraph: used by 1.8M developers. As of Jan '23. [Source](https://about.sourcegraph.com/)
 - Linear: used by 1,000+ companies. As of Jan '22. [Source](https://twitter.com/karrisaarinen/status/1480659739625209861?s=20&t=WjDLYUgEpr_fFwTDaLIsjg)
 - BugSnag: used by 6,000+ eng teams. As of Jan '22. [Source](https://www.bugsnag.com/)
-- Doppler: used by 22,500 startups/enterprises. As of Feb '23. [Source](https://jobs.lever.co/doppler/f4ec40b5-0016-487e-b511-35e509dba5ed) 
+- Doppler: used by 22,500 startups/enterprises. As of Feb '23. [Source](https://jobs.lever.co/doppler/f4ec40b5-0016-487e-b511-35e509dba5ed)
+- Rilway: used by 50,000 users. As of Feb '23. [Source](https://railway.app/careers) 
