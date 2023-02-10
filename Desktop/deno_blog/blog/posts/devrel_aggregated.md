@@ -1,5 +1,5 @@
 ---
-title: Developer Content Aggregated
+title: DevRel Aggregated
 publish_date: 2022-01-01
 ---
 
