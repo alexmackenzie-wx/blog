@@ -3,6 +3,8 @@ title: Developer Tool History
 publish_date: 2022-01-31
 ---
 
+A perennial document attempting to capture the history of developer tools. PRs welcome!
+
 - Nix created in 2003.
 - Git created in 2005 by Linus Torvalds to help develop Linux.
 - AWS released EC2 in 2006. 
