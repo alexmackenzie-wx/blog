@@ -26,6 +26,12 @@ Manifestos are the perfect medium to be opinionated/drop "hot takes". It's impor
 
 ---
 
+**Best Docs**
+
+- \>> [Fly](https://fly.io/docs/speedrun/) - I specifically like the idea of "speed-running". 
+
+---
+
 **You vs. Your Competitor**
 
 It's important that you own the you vs. your competitor narrative (vs. your competitors!). Conceding on certain areas/features creates legitimacy.
