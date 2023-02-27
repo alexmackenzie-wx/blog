@@ -16,3 +16,4 @@ Every (public!) developer tool usage/revenue metric I've come across + sources.
 - Doppler: used by 22,500 startups/enterprises. As of Feb '23. [Source](https://jobs.lever.co/doppler/f4ec40b5-0016-487e-b511-35e509dba5ed)
 - Railway: used by 50,000 users. As of Feb '23. [Source](https://railway.app/careers) 
 - Duo Security: 30,000 customers, $500M ARR. As of 2018. [Source](https://jon.oberheide.org/#about)
+- Merge API: 3,000 customers: including companies like AngelList, TripActions, Divvy by Bill.com [Source](https://merge.dev/blog/announcing-merges-55-million-series-b)
