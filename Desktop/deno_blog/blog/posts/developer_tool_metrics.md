@@ -21,4 +21,5 @@ Every (public!) developer tool usage/revenue metric I've come across + sources.
 - Twilio: 28,000 customers / $237M ARR. As of June 2016. [Source](https://www.sec.gov/Archives/edgar/data/1447669/000104746916013448/a2227414zs-1.htm)
 - Digital Ocean: 570,000 customers / $318M ARR. As of Dec 2021. [Source](https://www.sec.gov/Archives/edgar/data/1582961/000119312521055798/d898181ds1.htm)
 - Cloudflare: 74,873 customers / $270M ARR. As of September 2019. [Source](https://www.sec.gov/Archives/edgar/data/1477333/000119312519222176/d735023ds1.htm)
-- VueJS has 2.2M weekly downloads. 
+- MongoDB: 40,800 customers in 100+ countries. MongoDB Database platform has been downloaded 365M+ times. As of March 2023. [Source](https://www.mongodb.com/company)
+- VueJS: 2.2M weekly downloads. 
