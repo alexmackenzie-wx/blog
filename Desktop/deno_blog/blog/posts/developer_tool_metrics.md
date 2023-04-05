@@ -23,4 +23,5 @@ Every (public!) developer tool usage/revenue metric I've come across + sources.
 - Cloudflare: 74,873 customers / $270M ARR. As of September 2019. [Source](https://www.sec.gov/Archives/edgar/data/1477333/000119312519222176/d735023ds1.htm)
 - MongoDB: 40,800 customers in 100+ countries. MongoDB Database platform has been downloaded 365M+ times. As of March 2023. [Source](https://www.mongodb.com/company)
 - VueJS: 2.2M weekly downloads. 
-- Grafana: 10M users. As of April 2023 [Source](https://grafana.com/).
+- Grafana: 10M users. As of April 2023. [Source](https://grafana.com/).
+- Fauna: Used by 3,500 development teams. As of April 2023. [Source](https://fauna.com/about).
