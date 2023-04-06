@@ -3,6 +3,8 @@ title: Secure Enclaves Primer
 publish_date: 2023-04-06
 ---
 
+_Dance like no one is watching, encrypt like everyone is_
+
 ![image](https://user-images.githubusercontent.com/44316926/230310878-ba5f0c27-c307-4326-92ac-1e0f4ed6ae06.png)
 
 _Should you wish to stay updated on future posts, subscribe to receive carrier pigeons via my substack._
