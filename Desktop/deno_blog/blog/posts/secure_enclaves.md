@@ -18,10 +18,10 @@ The second criminally under-discussed topic in the world of technology investing
 
 Without asymmetric encryption (the “s” in https) the modern internet as we know it wouldn’t have thrived. Talk about a firm [grip](https://www.cloudflare.com/en-gb/learning/ssl/what-happens-in-a-tls-handshake/) (..sorry) on innovation! There’s more:
 
-- Pioneering remote-first companies (a la GitLab) without VPNs (+ perhaps SSH) would likely have struggled to operate. Would Deel be a company?
-- The emerging “isolate cloud” (Deno, [Grafbase](https://grafbase.com/), etc) is partially a second-order outcome of Chrome’s need to sandbox untrusted code.
-- Microservices wouldn’t have proliferated to the same degree without service meshes a la Envoy. (& more recently, eBPF).
-- And, as I’ve written [1](https://whynowtech.substack.com/p/federated-learning)[2](https://whynowtech.substack.com/p/webgpu) about previously, broad-scale personalised ML models will not be “a thing” (technical term) without privacy-enhancing technologies (PETs).
+- ⇀ Pioneering remote-first companies (a la GitLab) without VPNs (+ perhaps SSH) would likely have struggled to operate. Would Deel be a company?
+- ⇀ The emerging “isolate cloud” (Deno, [Grafbase](https://grafbase.com/), etc) is partially a second-order outcome of Chrome’s need to sandbox untrusted code.
+- ⇀ Microservices wouldn’t have proliferated to the same degree without service meshes a la Envoy. (& more recently, eBPF).
+- ⇀ And, as I’ve written [1](https://whynowtech.substack.com/p/federated-learning)[2](https://whynowtech.substack.com/p/webgpu) about previously, broad-scale personalised ML models will not be “a thing” (technical term) without privacy-enhancing technologies (PETs).
 
 Ok, point proven. So what’s next in cybersecurity?
 
@@ -35,9 +35,9 @@ As you may have ..deciphered.. from the title of this primer, we’ll be delving
 
 Within this primer we’ll discuss:
 
-- >> A ~brief history of encryption.
-- >> Approaches to data in-use security.
-- >> Secure Enclaves. You’d hope!
+- ⇀ A ~brief history of encryption.
+- ⇀ Approaches to data in-use security.
+- ⇀ Secure Enclaves. You’d hope!
 
 Thanks to friends [Nev](https://twitter.com/NevFlynn), [Liam](https://twitter.com/LiamPTFarrelly) & [Liz](https://twitter.com/Ecmoy) at [Evervault](https://evervault.com/) for the inspiration for this post + for reviewing!
 
@@ -77,10 +77,10 @@ Encryption keys are a hard-to-guess string of letters, numbers and symbols such 
 
 Below I used the python cryptography library to:
 
-- >> Generate an encryption key
-- >> Encrypt a message (“SuBsCrIbE”.. subtle) with this key
-- >> Print the ciphertext
-- >> Decrypt the ciphertext with the key & print the resulting plaintext
+- ⇀ Generate an encryption key
+- ⇀ Encrypt a message (“SuBsCrIbE”.. subtle) with this key
+- ⇀ Print the ciphertext
+- ⇀ Decrypt the ciphertext with the key & print the resulting plaintext
 
 
 ![image](https://user-images.githubusercontent.com/44316926/230312386-cf89d9df-727d-479a-9973-4f03ed5774b0.png)
@@ -147,9 +147,9 @@ Ok — so what does “data in-use” mean. Why is it a particularly difficult p
 
 As mentioned, data has three states:
 
-- >> It’s “at-rest” (😢) when it’s idle (e.g., stored in a database).
-- >> It’s “in-transit” when sent across a network (e.g., from your phone to the cloud).
-- >> It’s “in-use” when it’s being used/processed in some way (e.g., rendering a UI).
+- ⇀ It’s “at-rest” (😢) when it’s idle (e.g., stored in a database).
+- ⇀ It’s “in-transit” when sent across a network (e.g., from your phone to the cloud).
+- ⇀ It’s “in-use” when it’s being used/processed in some way (e.g., rendering a UI).
 
 The challenge is, when we want to use data we ~can’t keep it encrypted. Why? well, it’s tricky to do some math on a value such as: “_De2CYsx_”. So, at some point we need to decrypt data if we want to process it.
 
@@ -243,10 +243,10 @@ Why stop here though? “Defence in depth”, or, the more technical term: being
 
 When “instantiating” (ie creating) a Nitro Enclave, a user specifies a number of parameters such as:
 
-- >> What application code the enclave will run.
-- >> The enclave’s software dependencies.
-- >> How much memory it will require.
-- >> How many CPU cores it will need.
+- ⇀ What application code the enclave will run.
+- ⇀ The enclave’s software dependencies.
+- ⇀ How much memory it will require.
+- ⇀ How many CPU cores it will need.
 
 These inputs are fed into a hash function that produces a ~unique “checksum” (ie hash, ie string of characters) based on its inputs. You may remember checksums from the Why Now post on [Nix](https://whynowtech.substack.com/p/nix).
 
