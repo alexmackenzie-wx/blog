@@ -7,7 +7,8 @@ _Dance like no one is watching, encrypt like everyone is_
 
 ![image](https://user-images.githubusercontent.com/44316926/230310878-ba5f0c27-c307-4326-92ac-1e0f4ed6ae06.png)
 
-_Should you wish to stay updated on future posts, subscribe to receive carrier pigeons via my substack._
+
+_Should you wish to stay updated on future posts, subscribe to receive carrier pigeons via my [substack](https://whynowtech.substack.com/)._
 
 Many smart friends are 50/50 on cybersecurity as a pre-seed/seed investment category. I have always been perplexed by this.
 
@@ -34,9 +35,9 @@ As you may have ..deciphered.. from the title of this primer, we’ll be delving
 
 Within this primer we’ll discuss:
 
-- A ~brief history of encryption.
-- Approaches to data in-use security.
-- Secure Enclaves. You’d hope!
+- >> A ~brief history of encryption.
+- >> Approaches to data in-use security.
+- >> Secure Enclaves. You’d hope!
 
 Thanks to friends [Nev](https://twitter.com/NevFlynn), [Liam](https://twitter.com/LiamPTFarrelly) & [Liz](https://twitter.com/Ecmoy) at [Evervault](https://evervault.com/) for the inspiration for this post + for reviewing!
 
@@ -58,7 +59,9 @@ In and around 100BC Julius Caesar was slinging secret messages around Caput Mund
 
 This was a relatively simple “shift-by-three” cipher. Meaning that the letter “A” would be substituted with the letter “D”, the letter “X” would be substituted with “A”, etc.
 
+
 ![image](https://user-images.githubusercontent.com/44316926/230312115-a83264d3-ab15-4205-bfaf-39ec355832a2.png)
+
 
 What’s pertinent here is that Caesar Cipher is rule-based encryption. Once someone knows the rules of the game they can easily decrypt the “ciphertext” (encrypted text) into “plaintext” (decrypted text).
 
@@ -74,12 +77,14 @@ Encryption keys are a hard-to-guess string of letters, numbers and symbols such 
 
 Below I used the python cryptography library to:
 
-- Generate an encryption key
-- Encrypt a message (“SuBsCrIbE”.. subtle) with this key
-- Print the ciphertext
-- Decrypt the ciphertext with the key & print the resulting plaintext
+- >> Generate an encryption key
+- >> Encrypt a message (“SuBsCrIbE”.. subtle) with this key
+- >> Print the ciphertext
+- >> Decrypt the ciphertext with the key & print the resulting plaintext
+
 
 ![image](https://user-images.githubusercontent.com/44316926/230312386-cf89d9df-727d-479a-9973-4f03ed5774b0.png)
+
 
 >**Technical Detail:** When a single encryption key is used to both encrypt & decrypt data this is known as “symmetric encryption”.
 >
@@ -87,13 +92,14 @@ Below I used the python cryptography library to:
 
 Vigenère used _symmetric encryption_ to make his cipher “polyalphabetic” — whereby each plaintext character (e.g., “C”) was combined with an encryption key character (e.g., “H”) in order to “generate” a character (“J”) from a _specific_ alphabet.
 
+
 Example below:
 
 ![image](https://user-images.githubusercontent.com/44316926/230312695-7f705153-8603-4fe4-8eff-044cfb4d85cb.png)
 
 However, this method and its 19th/20th century successors (including the German [Enigma](https://en.wikipedia.org/wiki/Enigma_machine) rotor machine!) once again eventually fell short when frequency analysis was used.
 
-** I’m oversimplifying what it took to crack Enigma to the nth degree here! **
+** _I’m oversimplifying what it took to crack Enigma to the nth degree here!_ **
 
 Fast-forward to the 1970s and IBM designed a cipher (remember, an encrypt/decrypt function) named Lucifer. A bit.. disconcerting?
 
@@ -101,11 +107,13 @@ Yet, despite this, the cipher was later adopted by NIST (National Institute of S
 
 Elsewhere in the 1970s (1976) our friend asymmetric encryption (remember, public and private keys) began to bloom thanks to Whitfield Diffie & Martin Hellman. The advent of asymmetric encryption marked the dawn of “modern” cryptography.
 
+
 >**Key Point:** Thanks to asymmetric encryption, parties no longer need a shared secret (encryption key) to securely communicate.
 >
 >Alice can share her public key with Bob in order to encrypt a “secret message” from Bob, but she never has to share her private (decryption) key with him.
 >
 >Take a second to internalise this as it’s important!
+
 
 Shortly after (1977), fuelled by [Manischewitz](https://en.wikipedia.org/wiki/Manischewitz) (worth looking into), Rivest, Shamir and Adleman released the RSA asymmetric cipher. Yes… like the conference. RSA is the most popular / widely understood asymmetric encryption system to date.
 
@@ -139,9 +147,9 @@ Ok — so what does “data in-use” mean. Why is it a particularly difficult p
 
 As mentioned, data has three states:
 
-- It’s “at-rest” (😢) when it’s idle (e.g., stored in a database).
-- It’s “in-transit” when sent across a network (e.g., from your phone to the cloud).
-- It’s “in-use” when it’s being used/processed in some way (e.g., rendering a UI).
+- >> It’s “at-rest” (😢) when it’s idle (e.g., stored in a database).
+- >> It’s “in-transit” when sent across a network (e.g., from your phone to the cloud).
+- >> It’s “in-use” when it’s being used/processed in some way (e.g., rendering a UI).
 
 The challenge is, when we want to use data we ~can’t keep it encrypted. Why? well, it’s tricky to do some math on a value such as: “_De2CYsx_”. So, at some point we need to decrypt data if we want to process it.
 
@@ -157,7 +165,9 @@ HE enables someone to process data (derive a value from it) without ever having 
 
 With HE, we can pass some ciphertext (yes, De2CYsx) as an argument of a function that calculates the sum of 2 + De2CYsx and returns the same answer that it would if De2CYsx was decrypted (perhaps a number like 3?). See below:
 
+
 ![image](https://user-images.githubusercontent.com/44316926/230314178-0842d27d-58a3-4c82-8634-d0adc3e810bf.png)
+
 
 Pretty cool, huh? However, as perhaps expected in the field of cryptography, nothing is quite as it seems.
 
@@ -169,11 +179,13 @@ This is fine, but we’re not quite at the promised land here. Computers tend to
 
 However, come 30 years later and we kinda are. Craig Gentry (& co) came along in 2009 with a _fully homomorphic_ encryption (you guessed it, FHE) scheme. FHE, in theory at least, enables _anyone_ to perform _any operation_ on ciphertext.
 
+
 >Note: Within these primers I typically try to leave no stone unturned when explaining how something works.
 >
 >For homomorphic encryption I think this would be a mistake. Each homomorphic encryption scheme is nuanced & requires some pretty hardcore math.
 >
 >If you’re really into your prime numbers (…), check out the [Paillier](https://en.wikipedia.org/wiki/Paillier_cryptosystem) cryptosystem which is an approach I quite enjoyed digging into.
+
 
 At this point you’re likely thinking — “why isn’t this primer about FHE then?”. Fair.
 
@@ -201,7 +213,9 @@ Moving swiftly onto the how. In computing, when we want to process some data or 
 
 In storage our data is “at-rest”, and hence, encrypted. However, when loaded into RAM it’s decrypted so that it can be used. Et voila! Un gros problème.
 
+
 This is the how. Many methods, such as “[memory scraping](https://www.google.com/search?q=memory+scraping&oq=memory+scraping&aqs=chrome..69i57j0i512j0i15i22i30l3j0i10i15i22i30j0i390i650l2.391j0j7&sourceid=chrome&ie=UTF-8#:~:text=Memory%2Dscraping%20malware,wiki%20%E2%80%BA%20Memory%2Dscraping_m...)”, exist that exploit plaintext that’s exposed in memory. Cybersecurity is hard.
+
 
 ![image](https://user-images.githubusercontent.com/44316926/230314947-d154d58a-5247-4e23-8bf2-de4c9b452d31.png)
 
@@ -215,11 +229,13 @@ As alluded to, this peer is a little different, more.. constrained.
 
 For example, your Nitro Enclave has no internet access, no shell (e.g., SSH) access, no persistent storage and it runs its own kernel. Good luck to anyone trying to exfiltrate sensitive data from an enclave that isn’t connected to the internet.
 
+
 >**Technical Detail:** SSH = “secure shell”. A shell is a command-line interface (or CLI) that acts as an intermediary between a user and an operating system.
 >
 >When you open up your mac “terminal” you ultimately use a shell program (e.g, “zsh” or “bash”) to interact with the OS.
 >
 >SSH is a.. secure.. way to remotely access (or “tunnel” into) a given machine, remotely. We don’t want folk to do this when sensitive data’s involved.
+
 
 The only way you can bi-directionally communicate with this secure enclave is via a “Unix Socket” (don’t worry about this) that connects to the enclave’s “parent” EC2 instance.
 
@@ -227,10 +243,10 @@ Why stop here though? “Defence in depth”, or, the more technical term: being
 
 When “instantiating” (ie creating) a Nitro Enclave, a user specifies a number of parameters such as:
 
-- What application code the enclave will run.
-- The enclave’s software dependencies.
-- How much memory it will require.
-- How many CPU cores it will need.
+- >> What application code the enclave will run.
+- >> The enclave’s software dependencies.
+- >> How much memory it will require.
+- >> How many CPU cores it will need.
 
 These inputs are fed into a hash function that produces a ~unique “checksum” (ie hash, ie string of characters) based on its inputs. You may remember checksums from the Why Now post on [Nix](https://whynowtech.substack.com/p/nix).
 
