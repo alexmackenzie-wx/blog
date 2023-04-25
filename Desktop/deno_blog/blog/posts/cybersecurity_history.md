@@ -3,6 +3,8 @@ title: Cybersecurity History
 publish_date: 2022-01-31
 ---
 
+A perennial document attempting to capture the history of cybersecurity. PRs welcome!
+
 - Modern encryption tends to rely on what’s known as an “encryption key” (or key*s*) which stems from the work of ~Blaise de Vigenère in the 16th century.
 - 1970s and IBM designed a cipher (remember, an encrypt/decrypt function) named Lucifer which later became known as DES (Data Encryption Standard).
 - 1976 asymmetric encryption began to bloom thanks to Whitfield Diffie & Martin Hellman.
