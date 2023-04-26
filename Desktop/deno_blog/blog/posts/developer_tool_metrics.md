@@ -26,3 +26,4 @@ Every (public!) developer tool usage/revenue metric I've come across + sources.
 - Grafana: 10M users. As of April 2023. [Source](https://grafana.com/).
 - Fauna: Used by 3,500 development teams. As of April 2023. [Source](https://fauna.com/about).
 - Appsmith: Used by 10,000+ teams. As of April 2023. [Source](https://www.appsmith.com/)
+- Codecov: Used by 29,000+ organizations. As of April 2023. [Source](https://about.codecov.io/)
