@@ -59,4 +59,6 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Ask the same question, 10 different ways" - [Wes Chan](https://www.thetwentyminutevc.com/wes-chan/) on seeking the truth. 
 
+- "Tell me why this can't work" - [Keith Rabois](https://www.youtube.com/watch?v=fA00lIUES9A) on dd in technical areas.
+
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
