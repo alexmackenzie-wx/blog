@@ -61,4 +61,6 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Tell me why this can't work" - [Keith Rabois](https://www.youtube.com/watch?v=fA00lIUES9A) on dd in technical areas.
 
+- "The Toothbrush Test" - [Robert Playter](https://www.youtube.com/watch?v=cLVdsZ3I5os) on Sergey Brin's want for products that can be used daily.
+
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
