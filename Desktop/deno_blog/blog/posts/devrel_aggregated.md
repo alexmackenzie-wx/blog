@@ -147,6 +147,7 @@ My general rule of thumb here is to remember your audience/your content objectiv
 
 **Honourable Misc Mentions**
 
+- \>> [Grafbase's](https://grafbase.com/edge-gateway#:~:text=Use%20existing%20connectors%20or%20vote%20for%20the%20ones%20you%20need) connector voting.
 - \>> [PlanetScale's](https://planetscale.com/blog/building-planetscale-with-planetscale) "building PlanetScale with PlanetScale".
 - \>> [Evervault Papers](https://evervault.com/papers)
 - \>> [Fly](https://fly.io/ruby-dispatch/) has carved out sections of its blog for framework-specific posts. E.g., "The Ruby Dispatch". 
