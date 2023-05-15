@@ -6,6 +6,7 @@ publish_date: 2022-01-31
 A perennial document attempting to capture the history of cybersecurity. PRs welcome!
 
 - Modern encryption tends to rely on what’s known as an “encryption key” (or key*s*) which stems from the work of ~Blaise de Vigenère in the 16th century.
+- By the mid 1960s, growing popularity of time-sharing computer systems that made resources accessible over communication lines created new security concerns. As the scholars Deborah Russell and G. T. Gangemi Sr. explain, "The 1960s marked the true beginning of the age of computer security." 
 - 1970s and IBM designed a cipher (remember, an encrypt/decrypt function) named Lucifer which later became known as DES (Data Encryption Standard).
 - 1976 asymmetric encryption began to bloom thanks to Whitfield Diffie & Martin Hellman.
 - 1977 fuelled by Manischewitz (worth looking into), Rivest, Shamir and Adleman released the RSA asymmetric cipher.
