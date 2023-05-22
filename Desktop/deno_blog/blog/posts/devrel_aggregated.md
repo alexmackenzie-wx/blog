@@ -87,7 +87,8 @@ Spotlighting what your community builds with your product incentivises your user
 
 - \>> [Sysdig](https://medium.com/@SkyscannerEng/kubernetes-security-monitoring-at-scale-with-sysdig-falco-a60cfdb0f67a)'s appraisal via Skyscanner.
 - \>> [Hex](https://hex.tech/blog/#:~:text=Sep%2028%2C%202022-,ELSEWHERE,-Hex%20scores%20%2452M) has an "elsewhere" section within their blog page.
-- \>> [Great Expectations](https://greatexpectations.io/blog/better-together-zenml-and-great-expectations) x ZenML. 
+- \>> [Great Expectations](https://greatexpectations.io/blog/better-together-zenml-and-great-expectations) x ZenML.
+- \>> [Materialize](https://materialize.com/blog/kafka-is-not-a-database/) has a cross-post with Fivetran on "why Kafka isn't a database".
 
 ---
 
