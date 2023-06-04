@@ -121,3 +121,26 @@ _** Did I mention the word explicit? **_
 
 As hard is it may be to believe, Zig does even more to foster “simple” codebases such as omitting a “preprocessor” and “macros”. Don’t worry, we’ll get into what these terms mean.
 
+---
+
+The meaning of “toolchain” is a little more difficult to accurately scope. However, the word typically means a set of utilities: **libraries**, **compilers**, **build tools**, etc., that the language, or users of the language, can leverage.
+
+**1. Libraries** = code that someone else has written and packaged which can now be used by others to achieve a specific task. E.g., Rust’s [Pola.rs](https://www.pola.rs/) library for data manipulation. 
+
+**2. Compilers** = take your high-level code and convert it to “machine code” (1s and 0s) that corresponds to a specific [instruction set](https://whynowtech.substack.com/p/ebpf#:~:text=Native%20Code%3A%20Machine%20code.%20More%20technically%20known%20as%20a%20CPU%E2%80%99s%20Instruction%20Set%20Architecture%20(e.g.%2C%20x86%20or%20ARM).). Do some other helpful things like optimising your code (e.g., removing “dead code”).
+
+**3. Build Tools** = a build tool manages the entire build process, which includes compilation but also includes dependency management, testing, packaging, etc. I wrote about “building” software in detail on my Nix [primer](https://whynowtech.substack.com/p/nix).
+
+We can use Zig’s stated goals (“maintaining robust, optimal and reusable software”) to fine-tune our definition.
+
+Robust = software written in Zig works consistently, even during edge-cases. 
+
+Optimal = software written in Zig can be.. optimised.. for a specific task.   
+
+Reusable = software written in Zig is simple, scalable & portable.  
+
+With these goals in mind, I consider (go easy HN!) the Zig toolchain’s most notable features to be the following two:
+
+Zig’s “Comptime”.
+
+Zig’s 4 build systems. 
