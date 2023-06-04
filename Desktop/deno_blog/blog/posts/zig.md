@@ -131,16 +131,24 @@ The meaning of “toolchain” is a little more difficult to accurately scope. H
 
 **3. Build Tools** = a build tool manages the entire build process, which includes compilation but also includes dependency management, testing, packaging, etc. I wrote about “building” software in detail on my Nix [primer](https://whynowtech.substack.com/p/nix).
 
-We can use Zig’s stated goals (“maintaining robust, optimal and reusable software”) to fine-tune our definition.
+We can use Zig’s stated goals (“maintaining **robust**, **optimal** and **reusable** software”) to fine-tune our definition.
 
-Robust = software written in Zig works consistently, even during edge-cases. 
+1. **Robust** = software written in Zig works consistently, even during edge-cases. 
+2. **Optimal** = software written in Zig can be.. optimised.. for a specific task.   
+3. **Reusable** = software written in Zig is simple, scalable & portable.  
 
-Optimal = software written in Zig can be.. optimised.. for a specific task.   
+With these goals in mind, _I consider_ (go easy HN!) the Zig toolchain’s most notable features to be the following two:
 
-Reusable = software written in Zig is simple, scalable & portable.  
+Zig’s “**Comptime**”.
 
-With these goals in mind, I consider (go easy HN!) the Zig toolchain’s most notable features to be the following two:
+Zig’s 4 **build systems**.
 
-Zig’s “Comptime”.
+---
 
-Zig’s 4 build systems. 
+Ok, I’m done writing in lists of twos & threes, I promise. Let’s delve into Zig’s “Comptime”.
+
+Zig touts its Comptime as “A fresh approach to metaprogramming based on compile-time code execution and lazy evaluation.” Let’s unpack each word emphasised as per. First, compile-time.  
+
+Software has a “lifecycle” that ultimately results in said software being executed (ie running on a computer): 
+
+Developers write code (think Python), “compile” this code, “link” each compiled file generated (called an “object file”) into a final “executable” and then “run” (ie execute) this.. um.. executable.
