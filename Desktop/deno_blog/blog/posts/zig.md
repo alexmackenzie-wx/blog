@@ -147,8 +147,102 @@ Zig’s 4 **build systems**.
 
 Ok, I’m done writing in lists of twos & threes, I promise. Let’s delve into Zig’s “Comptime”.
 
-Zig touts its Comptime as “A fresh approach to metaprogramming based on compile-time code execution and lazy evaluation.” Let’s unpack each word emphasised as per. First, compile-time.  
+Zig touts its Comptime as _“A fresh approach to **metaprogramming** based on **compile-time** code execution and **lazy evaluation**.”_ Let’s unpack each word emphasised as per. First, compile-time.  
 
 Software has a “lifecycle” that ultimately results in said software being executed (ie running on a computer): 
 
 Developers write code (think Python), “compile” this code, “link” each compiled file generated (called an “object file”) into a final “executable” and then “run” (ie execute) this.. um.. executable.
+
+![image](https://github.com/alexmackenzie-wx/blog/assets/44316926/da772e09-7ecf-47cf-8c91-ac2638cf5df9)
+
+Programming languages are typically evaluated at either compile-time (e.g., TypeScript) or runtime (JavaScript). “Evaluation” essentially means checking for errors, determining the “type” of a given variable, etc., all with the aim of ultimately executing a program. 
+
+Like any technical decision, there isn’t an objectively “correct” way to evaluate a program. Rather, there are trade-offs.
+
+For example, if you evaluate a language’s “types” at compile-time, then you’ll pick-up the incorrect usage of a “string” in a function that expects an “integer” _before_ you compile said language and run it somewhere. Thus picking up a “bug” before your software is deployed. _Phew_.
+
+The drawback of this compile-time eval is that developers have to specify the exact type of data they expect their function to receive. This can get rather tricky. Why? Well, end-users of software are unpredictable, they may end up inserting valid data types (e.g., an integer in a “[first name](https://www.washingtonpost.com/technology/2020/05/08/musk-grimes-baby-name/#:~:text=new%20baby%20boy%2C-,X%20%C3%86%20A%2D12,-.)” field on a form) that you may not expect.  
+
+Zig takes a more.. democratic, approach. The language enables developers to _explicitly_ state which blocks of their code they’d like “evaluated” at compile-time vs. runtime. This is handled via Zig’s `comptime` keyword:
+
+![image](https://github.com/alexmackenzie-wx/blog/assets/44316926/f6c556b1-bc8f-4af0-acbd-24cb741f2bef)
+
+Taking all that we now know about Zig, we can assume that the primary goal of this explicit statement of compile-time vs. runtime evaluation is.. you guessed it, _explicitness_. 
+
+A developer reading your Zig code doesn’t have to identify/recall what’s being evaluated at compile-time, you literally tell them. Much like Zig’s control flow, nothing is “hidden” from the developer. 
+
+Ok, cool, we like explicitness. However, I want to also point out that Comptime reiterates Zig’s ability to be fine-tuned for performance. 
+
+For example, if we offload type inference to the _developer_ who compiles their software, then the end-user (think a general “consumer”) doesn’t have to handle type inference on their own machine at runtime. Nice.
+
+---
+
+Right, so we know what evaluation is and when it happens (compile-time / runtime). What’s “lazy” evaluation?
+
+Well, thankfully, it’s rather self-explanatory. Lazy evaluation, much like a “lazy person”, isn’t proactive, it only completes a task at the last-minute, when it must.   
+
+I’ll make this more concrete with some (simple!) Zig code which we’ll build on.
+
+![image](https://github.com/alexmackenzie-wx/blog/assets/44316926/dd3911fa-0710-4e5d-9b6e-eda410e33142)
+
+If we were to _lazily evaluate_ this code, we would only check/determine the values of the variables: `first_name` (“Alex”) and `second_name` (“Mackenzie”), when we need them. In this case, we need these values to complete the `first_name ++ second_name` operation.
+
+Why is lazy evaluation helpful you ask? Well, it means you’re not doing any heavy-lifting before you have to, which ultimately results in more-efficient resource allocation. 
+
+Why calculate the value of an expression if you’re only _maybe_ (e.g., in the context of conditional logic) going to use it later? Smart. 
+
+This said, whilst Zig makes this lazy eval.. explicit.. I do personally feel that lazy evaluation goes against Zig’s simplicity / feels a little “hidden”. This is a primer though, so let’s leave my judgement to the side.
+
+---
+
+Well, this is a “lengther”. Sorry, but programming languages are very much the aggregation of minute technical decisions that, in aggregate, support a handful of objectives. If you want to grok a language, you’ve got to appreciate its nuances. 
+
+Next, “Metaprogramming”. Remember our brief mention of “preprocessors” and “macros”? They’re back. Kinda. 
+
+Metaprogramming is common in systems-level programming languages like C, C++, Rust. It’s what you likely expect — a program, “programming” itself. _Woah, meta_.        
+
+In practice, metaprogramming involves leveraging compile-time information (e.g., type declarations like: `var age: i32 = 28;`) to manipulate (e.g., edit/generate code) your program in some way.
+
+For example, with this “type information” our program could automatically edit our variable age’s data type to be “i8” vs. “i32”. i8 is a smaller data type, and hence, takes up less memory. Thus, through metaprogramming, we have optimised our Zig code at compile-time. _C'est très cool!_
+
+> **Technical Detail:** In C/C++ metaprogramming is handled by a “preprocessor” program that uses “macros” (ie specific keywords like: `#define`).
+>
+>Without getting unnecessarily into the weeds, these macros are complex/error-prone; so much so that they’re considered by some to be a “separate programming language” beyond C/C++.
+>Whereas Zig treats metaprogramming as a “first-class citizen”, and hence, tightly integrates the process with the rest of its “toolchain” (via Comptime).
+
+--- 
+
+Alright, we’re nearly wrapped up here with Zig. For those of you still here, nice job, this isn’t an easy read by any means. It certainly wasn’t a walk in the park for my ghost-writer to draft! (joke).
+
+As mentioned, Zig is… supple. It has 4 “build modes”. Again, we discussed what “building software” is at length within my [Nix primer](https://whynowtech.substack.com/p/nix) so I shall point you there if you need a refresher.  
+
+Zig’s 4 build modes are:
+
+1. **Debug** = used during development (ie writing your code) and prioritises ease of debugging over performance. In this mode, code is compiled with additional debugging info.
+2. **ReleaseSafe** = used for the final build of an application when performance and optimisation are critical. 
+3. **ReleaseSmall** = prioritises generating the smallest possible “executable”. Achieved through techniques such as dead code (ie unused) elimination or “function/data merging” (removing duplicates). This mode’s particularly useful for embedded systems (e.g., a Ring doorbell) that have limited resources (compute/memory).
+4. **ReleaseFast** = sits in between debug and release modes. Optimises for performance but still includes some additional debugging info.         
+
+You select one of these build modes via the command line like so: 
+
+![image](https://github.com/alexmackenzie-wx/blog/assets/44316926/f2e2bd6d-1bf8-4bdd-8db9-eec92376a7ce)
+
+In particular, these build modes speak to Zig’s stated goal of producing _optimal_ and _reusable_ software. Wanna run some Zig code on your toaster? Cool, use ReleaseSmall. Fancy building a database? Impressive, but please use ReleaseSafe.
+
+--- 
+
+As hard as it may be to believe, there’s so _much more_ (build.zig, cross-compilation, etc.) that I’d like to take you through re. Zig. However, I feel like the law of diminishing returns is almost certainly kicking in already. 
+
+I suspect you “get it”, you understand the essence and purpose of Zig. I’d encourage you to jump into the following posts/videos if you’re interested in learning more:
+
+Mitchell Hashimoto: [Zig Build Internals](https://mitchellh.com/zig/build-internals).
+
+Fastly: [Build an Efficient & Portable Programming Language with Zig.](https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig)
+
+Andrew Kelley: [The Road to Zig 1.0](https://www.youtube.com/watch?v=Gv2I7qTux7g).
+
+As I have espoused many times, I like “Serious Software”. Think game engines, 3d modelling software, runtimes, etc., as the “real estate” of features that can (and should!) be optimised within them is tremendous. Good luck building Blender over a weekend!
+
+Jarred puts it similarly when asked “Why is Bun Fast?”: “In one word: obsession. An enormous amount of time spent profiling, benchmarking and optimizing things. The answer is different for every part of Bun”.
+
+I suspect Zig will continue to make it easier for more folk like Jarred to lean into their obsessions and take on incumbents through fine-grained tweaks and tuning. If so, I am very excited to see what’s coming around the corner.
