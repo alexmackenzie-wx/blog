@@ -241,8 +241,12 @@ Fastly: [Build an Efficient & Portable Programming Language with Zig.](https://w
 
 Andrew Kelley: [The Road to Zig 1.0](https://www.youtube.com/watch?v=Gv2I7qTux7g).
 
-As I have espoused many times, I like “Serious Software”. Think game engines, 3d modelling software, runtimes, etc., as the “real estate” of features that can (and should!) be optimised within them is tremendous. Good luck building Blender over a weekend!
+As I have espoused many times, I like “[Serious Software](https://whynowtech.substack.com/p/webgpu)”. Think game engines, 3d modelling software, runtimes, etc., as the “real estate” of features that can (and should!) be optimised within them is tremendous. Good luck building [Blender](https://www.blender.org/) over a weekend!
 
-Jarred puts it similarly when asked “Why is Bun Fast?”: “In one word: obsession. An enormous amount of time spent profiling, benchmarking and optimizing things. The answer is different for every part of Bun”.
+Jarred [puts](https://bun.sh/#:~:text=In%20one%20word%3A%20obsession.%20An%20enormous%20amount%20of%20time%20spent%20profiling%2C%20benchmarking%20and%20optimizing%20things.%20The%20answer%20is%20different%20for%20every%20part%20of%20Bun%2C) it similarly when asked “Why is Bun Fast?”: _“In one word: obsession. An enormous amount of time spent profiling, benchmarking and optimizing things._ **The answer is different for every part of Bun”.**
 
 I suspect Zig will continue to make it easier for more folk like Jarred to lean into their obsessions and take on incumbents through fine-grained tweaks and tuning. If so, I am very excited to see what’s coming around the corner.
+
+**If you are building, or considering building, with Zig, I’d love to say hello! alex@tapestry.vc **
+
+[Finally, I’d ask that, if possible, you consider supporting the Zig Software Foundation.](https://github.com/sponsors/ziglang) 
