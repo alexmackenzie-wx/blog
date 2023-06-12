@@ -28,3 +28,4 @@ Every (public!) developer tool usage/revenue metric I've come across + sources.
 - Appsmith: Used by 10,000+ teams. As of April 2023. [Source](https://www.appsmith.com/)
 - Codecov: Used by 29,000+ organizations. As of April 2023. [Source](https://about.codecov.io/)
 - Vanta: Used by 5,000 customers. As of May 2023. [Source](https://www.vanta.com/resources/vanta-security-team)
+- Vercel: 2020 $1M ARR, 2021 $5M ARR, 2022 $24M ARR, Mid-2023 $50M+ ARR. [Source](https://blog.joelonsdale.com/p/ep-61-high-school-dropout-to-billion)
