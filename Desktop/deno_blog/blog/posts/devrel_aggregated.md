@@ -156,5 +156,6 @@ My general rule of thumb here is to remember your audience/your content objectiv
 - \>> [Linear's](https://linear.app/readme) ReadMe.
 - \>> [Cillium](https://cilium.io/#:~:text=Weekly%20Interactive%20Cilium%0AIntroduction%20and%20Live%20Q%26A)'s Co-Founder runs a weekly "Install Fest".
 - \>> [Bytebase](https://star-history.com) built the "Star History" tool; great marketing real estate.
-- \>> [Stripe's](https://twitter.com/avstorm/status/1280367397279608833) homepage easter egg. 
+- \>> [Stripe's](https://twitter.com/avstorm/status/1280367397279608833) homepage easter egg.
+- \>> [Tine's](https://www.linkedin.com/posts/eoinhinchy_at-tines-we-love-to-celebrate-the-team-members-ugcPost-7074000941821095936-1k1J) developer credit roll.  
   
