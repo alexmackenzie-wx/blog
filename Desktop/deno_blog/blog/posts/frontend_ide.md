@@ -3,6 +3,10 @@ title: A Frontend IDE
 publish_date: 2023-06-14
 ---
 
+_A frontend convergence_
+
+---
+
 UX/UI designers and frontend engineers have been converging for some time. I’m undecided if “design engineer” is apt, but if we look at my friend [Nev’s](https://twitter.com/NevFlynn) work (& LinkedIn bio!) at [Evervault](https://evervault.com/) it’s clear that designers can write some pretty gnarly JS.
 
 Clearly, this latest wave in generative AI is abrupt-enough of a change to expedite this trend. The question then becomes, does this new class of engineer have the right integrated development environment?
