@@ -12,4 +12,5 @@ A perennial document attempting to capture the history of cybersecurity. PRs wel
 - 1977 fuelled by Manischewitz (worth looking into), Rivest, Shamir and Adleman released the RSA asymmetric cipher.
 - 2000 a new cipher was adopted known as Rijndael (pronounced rain-dahl) or the Advanced Encryption Standard.
 - Thinkst Canary founded in 2015.
+- Elastic [released](https://www.elastic.co/about/history-of-elasticsearch) Logstash in 2016.
 - 2022 the first four quantum-resistant algorithms (thank you lattices) were announced. 
