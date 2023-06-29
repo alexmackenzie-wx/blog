@@ -12,7 +12,10 @@ A perennial document attempting to capture the history of cybersecurity. PRs wel
 - 1977 fuelled by Manischewitz (worth looking into), Rivest, Shamir and Adleman released the RSA asymmetric cipher.
 - 2000 a new cipher was adopted known as Rijndael (pronounced rain-dahl) or the Advanced Encryption Standard.
 - Splunk was founded in 2003.
+- Sumo Logic was founded in 2010. 
 - Splunk went public in 2012.  
 - Thinkst Canary founded in 2015.
 - Elastic [released](https://www.elastic.co/about/history-of-elasticsearch) Logstash in 2016.
+- Sumo Logic released its SIEM offering in 2018.
+- Sumo Logic went public in 2020
 - 2022 the first four quantum-resistant algorithms (thank you lattices) were announced. 
