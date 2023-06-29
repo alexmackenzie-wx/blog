@@ -18,4 +18,5 @@ A perennial document attempting to capture the history of cybersecurity. PRs wel
 - Elastic [released](https://www.elastic.co/about/history-of-elasticsearch) Logstash in 2016.
 - Sumo Logic released its SIEM offering in 2018.
 - Sumo Logic went public in 2020
-- 2022 the first four quantum-resistant algorithms (thank you lattices) were announced. 
+- 2022 the first four quantum-resistant algorithms (thank you lattices) were announced.
+- Sumo Logic was taken private by Francisco Partners for $1.7B in May 2023.  
