@@ -63,4 +63,6 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "The Toothbrush Test" - [Robert Playter](https://www.youtube.com/watch?v=cLVdsZ3I5os) on Sergey Brin's want for products that can be used daily.
 
+- "Focus on both music making and conducting" - [Josh Kushner](https://open.spotify.com/episode/0SEcbog1iWyMIPtbQxQuYF?si=_06bEVGYTWG6n6R7Df6Eug) on how to improve your investment picking whilst management responsibilities scale. 
+
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
