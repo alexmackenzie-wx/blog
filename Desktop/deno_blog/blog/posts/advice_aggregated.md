@@ -25,7 +25,7 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "What's the last step" - [Palmer Luckey](https://www.youtube.com/watch?v=dMhVrYhQUsk) on how to avoid working on (or investing in!) incremental ideas. 
 
-- "10*9" - [Roelof Botha](https://www.protocol.com/sequoia-roelof-botha) on investing exceptionally vs. incrementally. 
+- "10**9" - [Roelof Botha](https://www.protocol.com/sequoia-roelof-botha) on investing exceptionally vs. incrementally. 
 
 - "World's most important companies" - [Bryan Singerman](https://www.joincolossus.com/episodes/34530101/singerman-investing-in-the-best-founders). "Obvious" - but useful way to keep incremental bias/adverse selection in check.
 
@@ -35,7 +35,9 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Failure to imagine failure" - [Josh Wolfe](https://twitter.com/wolfejosh/status/1239006370382393345?lang=en-GB) on company failure being ok as long as the cause of failure was anticipated.  
 
-- "Bat-signal" - [Marc Andreessen](https://conversationswithtyler.com/episodes/marc-andreessen/) on Peter Thiel optimizing for the type of founders, colleagues, peers he wants to work with. 
+- "Bat-signal" - [Marc Andreessen](https://conversationswithtyler.com/episodes/marc-andreessen/) on Peter Thiel optimizing for the type of founders, colleagues, peers he wants to work with.
+
+- "There are big markets, large markets and infinite markets" - [Josh Kushner](https://open.spotify.com/episode/0SEcbog1iWyMIPtbQxQuYF?si=_06bEVGYTWG6n6R7Df6Eug) on pursuing the grandest investment opportunities. 
 
 - "Sell what LPs know how to buy" - [Paul Martino](https://ventureunlocked.substack.com/p/paulmartino) on fundraising narratives for emerging managers. 
 
