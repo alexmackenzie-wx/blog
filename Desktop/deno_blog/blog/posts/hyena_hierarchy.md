@@ -1,11 +1,9 @@
 ---
-title: Post-Transformers - Hyena Hierarchy
+title: Hyena Hierarchy
 publish_date: 2023-09-04
 ---
 
 _Breaking the Quadratic Barrier_
-
----
 
 ![image](https://github.com/alexmackenzie-wx/blog/assets/44316926/ab66846e-2fb0-4907-8599-b45bf8a0d656)
 
@@ -33,10 +31,10 @@ Hyena is proposed to be a drop-in replacement (much [like Zig is](https://whynow
 
 Throughout this primer I’ll walk you through:
 
-* How and why we arrived at the attention mechanism (RNNs, LSTMs, GRUs, etc)
-* How the attention mechanism actually works - step by step
-* Why we need an alternative to attention
-* Said alternative to attention - “Hyena”
+* - How and why we arrived at the attention mechanism (RNNs, LSTMs, GRUs, etc)
+* - How the attention mechanism actually works - step by step
+* - Why we need an alternative to attention
+* - Said alternative to attention - “Hyena”
 
 If the fastest growing [application](https://chat.openai.com/) of all time was unlocked via “attention”, then it’s incumbent on us (as investors at least) to study where the puck is heading next.
 
