@@ -55,7 +55,7 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Their time is already allocated" - [Marc Andreessen](https://www.joincolossus.com/episodes/58516750/andreessen-making-the-future) on the difficulty of capturing consumer attention.   
 
-- "Look for what sucks" - [Josh Wolfe](https://podcasts.apple.com/us/podcast/josh-wolfe-the-tech-imperative/id1154105909?i=1000436137469) on investing in what matters. 
+- "Look for what sucks" - [Josh Wolfe](https://podcasts.apple.com/us/podcast/josh-wolfe-the-tech-imperative/id1154105909?i=1000436137469) on investing in what matters.
 
 - "Multi product companies" - [Bedrock Capital](https://www.bedrockcap.com/letters/rippling-is-built-different) on assessing the feasibility of second / third acts by companies.
 
@@ -64,6 +64,8 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 - "Ask the same question, 10 different ways" - [Wes Chan](https://www.thetwentyminutevc.com/wes-chan/) on seeking the truth. 
 
 - "Tell me why this can't work" - [Keith Rabois](https://www.youtube.com/watch?v=fA00lIUES9A) on dd in technical areas.
+
+- "You should build in the hidden layers" - [Nir Zicherman](https://www.zaxis.page/p/hidden-layers) on where to look as abrupt technical / industrial change occurs.
 
 - "The Toothbrush Test" - [Robert Playter](https://www.youtube.com/watch?v=cLVdsZ3I5os) on Sergey Brin's want for products that can be used daily.
 
