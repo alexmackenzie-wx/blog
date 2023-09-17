@@ -65,6 +65,8 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Tell me why this can't work" - [Keith Rabois](https://www.youtube.com/watch?v=fA00lIUES9A) on dd in technical areas.
 
+- "Look for abrupt change" - [Bucky Moore](https://www.youtube.com/watch?v=oCax9O5FZhM) on the urgency of demand for a solution (making an interesting investment).
+
 - "You should build in the hidden layers" - [Nir Zicherman](https://www.zaxis.page/p/hidden-layers) on where to look as abrupt technical / industrial change occurs.
 
 - "The Toothbrush Test" - [Robert Playter](https://www.youtube.com/watch?v=cLVdsZ3I5os) on Sergey Brin's want for products that can be used daily.
