@@ -9,6 +9,8 @@ A perpetually evolving doc of the advice I've received or inherited about the bu
 
 Below you'll find my ~unique aggregate of learnings about the business of venture - beyond the "usual" / "technical".    
 
+- "People that scare me" - [Graham Duncan](https://podcasts.apple.com/gb/podcast/362-graham-duncan-talent-is-the-best-asset-class/id863897795?i=1000430803993) on hiring Analysts that are capable of being better than you.
+
 - "Suck the oxygen out of the air" - [Pat Grady](https://twitter.com/gradypb/status/1500853918036729856?s=20&t=nBg6rHzCk0fTZD5avEMTEg) on winning founder mind share. (about Sarah Guo!)
 
 - "Do good deals" - Anon on becoming a great investor. "Obvious" - but very easy to climb the wrong hill.
@@ -49,6 +51,8 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "The power of defaults" - [Julien Digital](https://julian.digital/2021/12/20/the-power-of-defaults/) on atom-based network effects.
 
+- "We're very change-aware" - [Miles Grimshaw](https://www.acquired.fm/episodes/benchmark-part-ii-the-dinner) on where to look as abrupt technical / industrial change occurs.
+
 - "N+1>N" - [Eugenio Pace](https://www.linkedin.com/in/eugeniop/) on building depth into a product/company. 
 
 - "Technical logistics companies" - [Alex Wang](https://podcasts.apple.com/us/podcast/alexandr-wang-a-primer-on-ai/id1154105909?i=1000557211885) on the value of investing in / building intangible complexity. 
@@ -71,6 +75,8 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "The Toothbrush Test" - [Robert Playter](https://www.youtube.com/watch?v=cLVdsZ3I5os) on Sergey Brin's want for products that can be used daily.
 
-- "Focus on both music making and conducting" - [Josh Kushner](https://open.spotify.com/episode/0SEcbog1iWyMIPtbQxQuYF?si=_06bEVGYTWG6n6R7Df6Eug) on how to improve your investment picking whilst management responsibilities scale. 
+- "Focus on both music making and conducting" - [Josh Kushner](https://open.spotify.com/episode/0SEcbog1iWyMIPtbQxQuYF?si=_06bEVGYTWG6n6R7Df6Eug) on how to improve your investment picking whilst management responsibilities scale.
+
+- "The most important thing is who is the user, and why do they care" - [Miles Grimshaw](https://www.youtube.com/watch?v=ZZgerlKINHA). 
 
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
