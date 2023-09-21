@@ -22,4 +22,5 @@ A perennial document attempting to capture the history of developer tools. PRs w
 - Kubernetes released in 2014.
 - AWS Lambda released in 2014.
 - Sourcegraph Seed raised in 2015.
+- Yandex open sources ClickHouse in 2016. 
 - GitHub moved to Kubernetes in 2017.
