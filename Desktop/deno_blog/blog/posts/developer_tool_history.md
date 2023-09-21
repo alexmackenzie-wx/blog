@@ -16,7 +16,8 @@ A perennial document attempting to capture the history of developer tools. PRs w
 - Google App Engine launched in 2008. 
 - Homebrew created by Max Howell in 2009. 
 - Microosft Azure launched in 2010.
-- Spark developed at AMPLab at University of California and open sourced in 2010.  
+- Spark developed at AMPLab at University of California and open sourced in 2010.
+- Snowflake founded in 2012.  
 - Docker released in 2013.
 - Sourcegraph founded in 2013.
 - Kubernetes released in 2014.
@@ -24,3 +25,4 @@ A perennial document attempting to capture the history of developer tools. PRs w
 - Sourcegraph Seed raised in 2015.
 - Yandex open sources ClickHouse in 2016. 
 - GitHub moved to Kubernetes in 2017.
+- Snowflake IPO in 2020. 
