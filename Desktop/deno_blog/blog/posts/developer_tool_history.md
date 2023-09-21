@@ -15,7 +15,8 @@ A perennial document attempting to capture the history of developer tools. PRs w
 - Hive contributed to Apache in 2008.  
 - Google App Engine launched in 2008. 
 - Homebrew created by Max Howell in 2009. 
-- Microosft Azure launched in 2010.  
+- Microosft Azure launched in 2010.
+- Spark developed at AMPLab at University of California and open sourced in 2010.  
 - Docker released in 2013.
 - Sourcegraph founded in 2013.
 - Kubernetes released in 2014.
