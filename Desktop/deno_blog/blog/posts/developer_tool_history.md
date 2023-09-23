@@ -17,6 +17,7 @@ A perennial document attempting to capture the history of developer tools. PRs w
 - Homebrew created by Max Howell in 2009. 
 - Microosft Azure launched in 2010.
 - Spark developed at AMPLab at University of California and open sourced in 2010.
+- AWS Redshift launched in 2012.
 - Snowflake founded in 2012.  
 - Docker released in 2013.
 - Sourcegraph founded in 2013.
