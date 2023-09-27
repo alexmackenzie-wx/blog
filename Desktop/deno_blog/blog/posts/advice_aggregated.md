@@ -11,6 +11,8 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "People that scare me" - [Graham Duncan](https://podcasts.apple.com/gb/podcast/362-graham-duncan-talent-is-the-best-asset-class/id863897795?i=1000430803993) on hiring Analysts that are capable of being better than you.
 
+- "Patience is arbitrage" - [Mike Maples](https://www.youtube.com/watch?v=j9xouls5eX0) on the importance of playing long-term games.
+
 - "Suck the oxygen out of the air" - [Pat Grady](https://twitter.com/gradypb/status/1500853918036729856?s=20&t=nBg6rHzCk0fTZD5avEMTEg) on winning founder mind share. (about Sarah Guo!)
 
 - "Do good deals" - Anon on becoming a great investor. "Obvious" - but very easy to climb the wrong hill.
@@ -57,7 +59,9 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Technical logistics companies" - [Alex Wang](https://podcasts.apple.com/us/podcast/alexandr-wang-a-primer-on-ai/id1154105909?i=1000557211885) on the value of investing in / building intangible complexity. 
 
-- "Their time is already allocated" - [Marc Andreessen](https://www.joincolossus.com/episodes/58516750/andreessen-making-the-future) on the difficulty of capturing consumer attention.   
+- "Their time is already allocated" - [Marc Andreessen](https://www.joincolossus.com/episodes/58516750/andreessen-making-the-future) on the difficulty of capturing consumer attention.
+
+- "The half-life (t½) of data" - [Miles Grimshaw](https://www.joincolossus.com/episodes/29895246/grimshaw-assessing-the-dna-of-software-companies?tab=transcript) on how to evaluate the relative stickiness of various systems of record.  
 
 - "Look for what sucks" - [Josh Wolfe](https://podcasts.apple.com/us/podcast/josh-wolfe-the-tech-imperative/id1154105909?i=1000436137469) on investing in what matters.
 
@@ -77,6 +81,14 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Focus on both music making and conducting" - [Josh Kushner](https://open.spotify.com/episode/0SEcbog1iWyMIPtbQxQuYF?si=_06bEVGYTWG6n6R7Df6Eug) on how to improve your investment picking whilst management responsibilities scale.
 
-- "The most important thing is who is the user, and why do they care" - [Miles Grimshaw](https://www.youtube.com/watch?v=ZZgerlKINHA). 
+- "The most important thing is who is the user, and why do they care" - [Miles Grimshaw](https://www.youtube.com/watch?v=ZZgerlKINHA).
 
+- "What do you uniquely provide that your customer desperately needs?" - [Andy Rachleff](https://greatness.floodgate.com/episodes/andy-rachleff-on-how-to-know-if-youve-got-product-market-fit-XxGvX8DH/transcript) on product market fit.
+
+- "Look for products where you can both do your work and talk about your work" - [Jake Saper](https://shomik.substack.com/p/18-jake-saper-general-partner-emergence#details) on products capable of becoming platforms.
+
+- "Your pref stack is both a liability and an asset" - [Eric Paley](https://www.youtube.com/watch?v=j9xouls5eX0).
+
+- "Companies that suffer from indigestion" - [Miles Grimshaw](https://www.joincolossus.com/episodes/29895246/grimshaw-assessing-the-dna-of-software-companies?tab=transcript) on the importance of seeking out companies that can compound via 2nd / 3rd acts.
+     
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
