@@ -16,6 +16,7 @@ publish_date: 2022-01-01
 - World's most important companies.
 - Toothbrush test.
 - Accidents of history.
+- Logical end states. (Palmer)
 - The "Slinky", eBPF, etc.
 - Power of defaults.
 - The half-life of data.
@@ -26,4 +27,5 @@ publish_date: 2022-01-01
 
 - Abrubpt change.
 - Non-consensus and right.
+- "Why Now"
 - Keep in mind both absolute topline as well as gross margins. 99% GMs on $1k is irrelevant.
