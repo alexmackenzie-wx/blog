@@ -9,7 +9,8 @@ publish_date: 2022-01-01
 - People that scare me. Inspired by Graham Duncan.
 - Steep slopes.
 - Life's work entrepreneurs.
-- Chips on shoulders put chips in pockets. 
+- Chips on shoulders put chips in pockets.
+- Some people just feel inevitable. 
 
 **Products**
 
