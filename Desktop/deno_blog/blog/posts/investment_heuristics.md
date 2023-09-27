@@ -27,6 +27,7 @@ publish_date: 2022-01-01
 **Markets**
 
 - Abrubpt change.
+- Future here, just not evenly distributed. Look at HackerOne for example - "white hat" hackers already a thing at large cos.
 - Non-consensus and right.
 - "Why Now"
 - Keep in mind both absolute topline as well as gross margins. 99% GMs on $1k is irrelevant.
