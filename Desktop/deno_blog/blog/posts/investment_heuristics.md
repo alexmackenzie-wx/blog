@@ -10,7 +10,9 @@ publish_date: 2022-01-01
 - Steep slopes.
 - Life's work entrepreneurs.
 - Chips on shoulders put chips in pockets.
-- Some people just feel inevitable. 
+- Some people just feel inevitable.
+- Look for historians.
+- "Idea maze" navigated. 
 
 **Products**
 
