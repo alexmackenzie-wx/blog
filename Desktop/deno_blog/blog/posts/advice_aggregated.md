@@ -9,6 +9,8 @@ A perpetually evolving doc of the advice I've received or inherited about the bu
 
 Below you'll find my ~unique aggregate of learnings about the business of venture - beyond the "usual" / "technical".    
 
+- "Focus on both music making and conducting" - [Josh Kushner](https://open.spotify.com/episode/0SEcbog1iWyMIPtbQxQuYF?si=_06bEVGYTWG6n6R7Df6Eug) on how to improve your investment picking whilst management responsibilities scale.
+
 - "People that scare me" - [Graham Duncan](https://podcasts.apple.com/gb/podcast/362-graham-duncan-talent-is-the-best-asset-class/id863897795?i=1000430803993) on hiring Analysts that are capable of being better than you.
 
 - "Patience is arbitrage" - [Mike Maples](https://www.youtube.com/watch?v=j9xouls5eX0) on the importance of playing long-term games.
@@ -78,8 +80,6 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 - "You should build in the hidden layers" - [Nir Zicherman](https://www.zaxis.page/p/hidden-layers) on where to look as abrupt technical / industrial change occurs.
 
 - "The Toothbrush Test" - [Robert Playter](https://www.youtube.com/watch?v=cLVdsZ3I5os) on Sergey Brin's want for products that can be used daily.
-
-- "Focus on both music making and conducting" - [Josh Kushner](https://open.spotify.com/episode/0SEcbog1iWyMIPtbQxQuYF?si=_06bEVGYTWG6n6R7Df6Eug) on how to improve your investment picking whilst management responsibilities scale.
 
 - "The most important thing is who is the user, and why do they care" - [Miles Grimshaw](https://www.youtube.com/watch?v=ZZgerlKINHA).
 
