@@ -1,11 +1,13 @@
 ---
-title: Developer Tool History [Perennial Post]
+title: History of Software [Perennial Post]
 publish_date: 2022-01-31
 ---
 
-A perennial document attempting to capture the history of developer tools. PRs welcome!
+A perennial document attempting to capture the history of software. PRs welcome!
 
-- UNIX created in 1971 by Ken Thompson and Dennis Ritchie. 
+- UNIX created in 1971 by Ken Thompson and Dennis Ritchie.
+- SQL invented by Chamberlin & Boyce (IBM) in 1974.
+- First commercial RDMS / implementation of SQL released by Relational Software Inc (Orcale) in 1979.  
 - Nix created in 2003.
 - Git created in 2005 by Linus Torvalds to help develop Linux.
 - AWS released EC2 in 2006. 
