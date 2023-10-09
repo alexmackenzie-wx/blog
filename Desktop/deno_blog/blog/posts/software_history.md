@@ -20,7 +20,8 @@ A perennial document attempting to capture the history of software. PRs welcome!
 - Microosft Azure launched in 2010.
 - Spark developed at AMPLab at University of California and open sourced in 2010.
 - AWS Redshift launched in 2012.
-- Snowflake founded in 2012.  
+- Snowflake founded in 2012.
+- Looker founded in 2012.   
 - Docker released in 2013.
 - Sourcegraph founded in 2013.
 - Kubernetes released in 2014.
