@@ -91,6 +91,8 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Companies that suffer from indigestion" - [Miles Grimshaw](https://www.joincolossus.com/episodes/29895246/grimshaw-assessing-the-dna-of-software-companies?tab=transcript) on the importance of seeking out companies that can compound via 2nd / 3rd acts.
 
-- "Trust = Credibility x Reliability x Vulnerability" - [Ryan Caldbeck](https://x.com/ryan_caldbeck/status/1013626221601738754?s=20) on a framework for trust.  
+- "Trust = Credibility x Reliability x Vulnerability" - [Ryan Caldbeck](https://x.com/ryan_caldbeck/status/1013626221601738754?s=20) on a framework for trust.
+
+- "Pick one technical moat/differntiator & build a religion around it" - Anon re. technical marketing.    
      
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
