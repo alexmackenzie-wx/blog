@@ -10,3 +10,5 @@ When new technologies get mentioned to me, I aggregate them here.
 - [Mojo](https://www.modular.com/mojo)
 - [Roc Lang](https://www.roc-lang.org/)
 - [Yocto](https://www.yoctoproject.org/)
+- [tRPC](https://trpc.io/)
+- [Nextflow](https://www.nextflow.io/)
