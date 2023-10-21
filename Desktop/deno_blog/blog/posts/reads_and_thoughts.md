@@ -1,5 +1,5 @@
 ---
-title: Reads I Return To [Perennial Post]
+title: Reads & Thoughts I Return To [Perennial Post]
 publish_date: 2022-07-31
 ---
 
@@ -15,3 +15,4 @@ A perpetually evolving doc of reads I find myself going back to.
 - [Jiro's Dream - Karri Saarinen](https://karrisaarinen.com/jiro/)
 - [Taste - Paul Graham](http://www.paulgraham.com/taste.html)
 - [2022 - Jordan Gonen](https://docs.google.com/document/d/1v7e-ZrkyF4pW21sQHpERaFA34digSOy4CM2B7BKmP2Y/edit#heading=h.kqyjqaax421q)
+- [2,851 Miles - Bill Gurley](https://x.com/theallinpod/status/1702908187287212257?s=20)
