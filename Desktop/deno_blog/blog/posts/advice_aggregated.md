@@ -9,11 +9,11 @@ A perpetually evolving doc of the advice I've received or inherited about the bu
 
 Below you'll find my ~unique aggregate of learnings about the business of venture - beyond the "usual" / "technical".    
 
-- "Focus on both music making and conducting" - [Josh Kushner](https://open.spotify.com/episode/0SEcbog1iWyMIPtbQxQuYF?si=_06bEVGYTWG6n6R7Df6Eug) on how to improve your investment picking whilst management responsibilities scale.
-
 - "People that scare me" - [Graham Duncan](https://podcasts.apple.com/gb/podcast/362-graham-duncan-talent-is-the-best-asset-class/id863897795?i=1000430803993) on hiring Analysts that are capable of being better than you.
 
 - "Patience is arbitrage" - [Mike Maples](https://www.youtube.com/watch?v=j9xouls5eX0) on the importance of playing long-term games.
+
+- "Focus on both music making and conducting" - [Josh Kushner](https://open.spotify.com/episode/0SEcbog1iWyMIPtbQxQuYF?si=_06bEVGYTWG6n6R7Df6Eug) on how to refine your investment picking whilst management responsibilities scale.
 
 - "Suck the oxygen out of the air" - [Pat Grady](https://twitter.com/gradypb/status/1500853918036729856?s=20&t=nBg6rHzCk0fTZD5avEMTEg) on winning founder mind share. (about Sarah Guo!)
 
