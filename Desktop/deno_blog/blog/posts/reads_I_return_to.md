@@ -3,6 +3,8 @@ title: Reads I Return To [Perennial Post]
 publish_date: 2022-07-31
 ---
 
+A perpetually evolving doc of reads I find myself going back to.
+
 - [The Fable of the Dragon Tyrant - Nick Bostrom](https://nickbostrom.com/fable/dragon)
 - [Grapheme Clusters in Terminals - Mitchell Hashimoto](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
 - [Understanding Jane Street - Byrne Hobart](https://www.thediff.co/archive/jane-street/)
