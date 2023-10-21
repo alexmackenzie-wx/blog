@@ -3,7 +3,7 @@ title: Advice Aggregated [Perennial Post]
 publish_date: 2022-07-31
 ---
 
-A perpetually evolving doc of the advice I've received or inherited about the business of VC.
+A perpetually evolving doc of the advice I've received or inherited about the craft of investing.
 
 [Josh Wolfe](https://luxcapital.com/team/josh-wolfe/) was the first person I heard refer to venture as a business of *aggregation*. In venture we see a lot -- [fungal computation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6227805/) to open source contributor models (fan of [allcontributors](https://allcontributors.org/)) to gift card breakage state laws.
 
