@@ -16,3 +16,5 @@ A perpetually evolving doc of reads I find myself going back to.
 - [Taste - Paul Graham](http://www.paulgraham.com/taste.html)
 - [2022 - Jordan Gonen](https://docs.google.com/document/d/1v7e-ZrkyF4pW21sQHpERaFA34digSOy4CM2B7BKmP2Y/edit#heading=h.kqyjqaax421q)
 - [2,851 Miles - Bill Gurley](https://x.com/theallinpod/status/1702908187287212257?s=20)
+- [On Storytelling 1 - Ira Glass](https://www.youtube.com/watch?v=5pFI9UuC_fc)
+- [On "Taste" - Brie Wolfson](https://www.are.na/blog/notes-on-taste)
