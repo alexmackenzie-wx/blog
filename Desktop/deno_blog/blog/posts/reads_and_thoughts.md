@@ -18,3 +18,4 @@ A perpetually evolving doc of reads I find myself going back to.
 - [2,851 Miles - Bill Gurley](https://x.com/theallinpod/status/1702908187287212257?s=20)
 - [On Storytelling 1 - Ira Glass](https://www.youtube.com/watch?v=5pFI9UuC_fc)
 - [On "Taste" - Brie Wolfson](https://www.are.na/blog/notes-on-taste)
+- [Writing Well - Julian Shapiro](https://www.julian.com/guide/write/intro)
