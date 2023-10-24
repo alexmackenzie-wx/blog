@@ -93,6 +93,8 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Trust = Credibility x Reliability x Vulnerability" - [Ryan Caldbeck](https://x.com/ryan_caldbeck/status/1013626221601738754?s=20) on a framework for trust.
 
+- "Pay attention to directional arrows of progress" - [Josh Wolfe](https://podcasts.apple.com/us/podcast/josh-wolfe-the-tech-imperative/id1154105909?i=1000436137469).
+
 - "Pick one technical moat/differntiator & build a religion around it" - Anon re. technical marketing.    
      
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
