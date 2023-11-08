@@ -95,6 +95,8 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Pay attention to directional arrows of progress" - [Josh Wolfe](https://podcasts.apple.com/us/podcast/josh-wolfe-the-tech-imperative/id1154105909?i=1000436137469).
 
+- "Make something people want, before they can buy it" - [Palmer Luckey](https://open.spotify.com/episode/5I7Ue6hICwZWnI3ggtgaMY?si=6bc3fb2a78024535) on VR. 
+
 - "Pick one technical moat/differntiator & build a religion around it" - Anon re. technical marketing.    
      
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
