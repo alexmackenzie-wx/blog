@@ -97,6 +97,8 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Make something people want, before they can buy it" - [Palmer Luckey](https://open.spotify.com/episode/5I7Ue6hICwZWnI3ggtgaMY?si=6bc3fb2a78024535) on VR. 
 
-- "Pick one technical moat/differntiator & build a religion around it" - Anon re. technical marketing.    
+- "Pick one technical moat/differntiator & build a religion around it" - Anon re. technical marketing.
+
+- "Power to the People" - [Rich Barton](https://kwokchain.com/2019/04/09/making-uncommon-knowledge-common/) on building marketplaces.    
      
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
