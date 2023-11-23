@@ -19,6 +19,7 @@ A perpetually evolving doc of reads I find myself going back to.
 - 2022 - Jordan Gonen. [link](https://docs.google.com/document/d/1v7e-ZrkyF4pW21sQHpERaFA34digSOy4CM2B7BKmP2Y/edit#heading=h.kqyjqaax421q)
 - 2,851 Miles - Bill Gurley. [link](https://x.com/theallinpod/status/1702908187287212257?s=20)
 - On Storytelling 1 - Ira Glass. [link](https://www.youtube.com/watch?v=5pFI9UuC_fc)
+- Research Ideas - Gwern.net. [link](https://gwern.net/idea#genetics) 
 - On "Taste" - Brie Wolfson. [link](https://www.are.na/blog/notes-on-taste)
 - Writing Well - Julian Shapiro. [link](https://www.julian.com/guide/write/intro)
 - What You Should Do With Your Life - Alexey Guzey. [link](https://guzey.com/personal/what-should-you-do-with-your-life/)
