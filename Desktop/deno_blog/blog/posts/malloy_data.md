@@ -570,3 +570,42 @@ run: airports -> {
 
 ```
 
+Dimensions are new to this primer, but common in semantic layers more generally. They’re used to further describe and transform your data. More good news. They’re quite simple to grok once placed under the lens of our example code:
+
+```
+
+source: airports is duckdb.table('../data/airports.parquet') extend {
+  dimension: county_and_state is concat(county, ', ', state)
+  measure: airport_count is count()
+  measure: average_elevation is avg(elevation)
+}
+
+
+```
+
+Here, the “dimension” (think new column) country_and_state, is the concatenation of two separate columns in our airports table (country and state). The resulting column, or “dimension”, of this column will look like so:
+
+```
+
++---------------------+
+|  county_and_state   |
++---------------------+
+|  Santa A, CA        |
+|  Santa B, CA        |
+|  York, NY           |
++---------------------+
+
+
+```
+
+All quite simple, but some powerful & convenient functionality to have embedded in a query language directly. Nice work, Malloy.
+
+---
+
+No doubt some of you have picked up on the, ? subtle ?, irony present within this primer. A primer lambasting an unwieldy query language has become.. unwieldy.
+
+There is, _so_ much more for us to dig into re. Malloy. The language’s approach towards query pipelines is particularly cool; the fact that you can structure your queries with freedom is too; and you’re all lucky I omitted several other micro-optimisations.
+
+I’d encourage you to [walkthrough Malloy’s quickstart](https://malloydata.github.io/documentation/user_guides/basic.html) at your leisure.
+
+Lloyd, Michael, Carlin & the team are breaking rules in a way that would make Pablo himself proud. Art has a plethora of forms.
