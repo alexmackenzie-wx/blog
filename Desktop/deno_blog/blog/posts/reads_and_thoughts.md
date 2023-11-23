@@ -21,3 +21,5 @@ A perpetually evolving doc of reads I find myself going back to.
 - [On Storytelling 1 - Ira Glass](https://www.youtube.com/watch?v=5pFI9UuC_fc)
 - [On "Taste" - Brie Wolfson](https://www.are.na/blog/notes-on-taste)
 - [Writing Well - Julian Shapiro](https://www.julian.com/guide/write/intro)
+- [What You Should Do With Your Life - Alexey Guzey](https://guzey.com/personal/what-should-you-do-with-your-life/)
+  
