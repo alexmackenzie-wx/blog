@@ -58,6 +58,8 @@ As Pablo Picasso (“founding eng” at IBM, I think) once opined: “learn the 
 
 Up until 1970, database management systems (DBMSs) such as IBM’s Information Management System (IMS) organised data using “hierarchical” (think tree structures) or “network” models:
 
+```
+
 Organization
 |
 |-- Department: IT
@@ -72,3 +74,5 @@ Organization
     |   |-- Task: Recruitment
     |-- Employee: Sarah Lee
         |-- Task: Employee Relations 
+
+```
