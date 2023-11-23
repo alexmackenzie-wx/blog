@@ -6,8 +6,10 @@ publish_date: 2022-07-31
 A perpetually evolving doc of reads I find myself going back to.
 
 - [The Fable of the Dragon Tyrant - Nick Bostrom](https://nickbostrom.com/fable/dragon)
+- [World's Hardest Problems - Jay Zaveri](https://docs.google.com/document/d/1Vb8WWbsVyEJzl66_qqtZfFr2uLL07Y7SJH5XKldjDPY/edit)
 - [Grapheme Clusters in Terminals - Mitchell Hashimoto](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
 - [Understanding Jane Street - Byrne Hobart](https://www.thediff.co/archive/jane-street/)
+- [Advice - Patrick Collison](https://patrickcollison.com/advice)
 - [The Power of Defaults - Julian Lehr](https://julian.digital/2021/12/20/the-power-of-defaults/)
 - [Infinite Games - Graham Duncan](https://grahamduncan.blog/the-infinite-game-i-try-to-play/)
 - [PS2 Rant - Simon Wistow](http://thegestalt.org/simon/ps2rant.html)
