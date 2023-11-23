@@ -1,5 +1,5 @@
 ---
-title: Hyena Hierarchy
+title: Hyena Hierarchy Primer
 publish_date: 2023-09-04
 ---
 
