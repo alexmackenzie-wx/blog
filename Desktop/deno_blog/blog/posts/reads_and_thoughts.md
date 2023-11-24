@@ -23,6 +23,8 @@ A perpetually evolving doc of reads I find myself going back to.
 - On "Taste" - Brie Wolfson. [link](https://www.are.na/blog/notes-on-taste)
 - Writing Well - Julian Shapiro. [link](https://www.julian.com/guide/write/intro)
 - What You Should Do With Your Life - Alexey Guzey. [link](https://guzey.com/personal/what-should-you-do-with-your-life/)
+- Work on These Things - Tyler Cowen. [link](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html)
+- Research Ideas - Alexey Guzey. [link](https://guzey.com/personal/research-ideas/)
   
 Technical:
 
