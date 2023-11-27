@@ -38,3 +38,9 @@ Video:
 - On Storytelling - Ira Glass. [link](https://youtu.be/5pFI9UuC_fc?si=4BdlSgtsFCoDYevj)
 - 2,851 Miles - Bill Gurley. [link](https://x.com/theallinpod/status/1702908187287212257?s=20)
 - Do What You Can't - Casey Neistat. [link](https://youtu.be/jG7dSXcfVqE?si=8ggsdA7WFV1fqo2V)
+
+Thoughts:
+
+- "An answer so wrong it would eventually point to the truth" - Siddhartha Mukherjee. [link](https://www.amazon.co.uk/Song-Cell-Exploration-Medicine-Human-ebook/dp/B09TD8XWLB/ref=sr_1_1)
+- "A minor-major transition" - Siddhartha Mukherjee. [link](https://www.amazon.co.uk/Song-Cell-Exploration-Medicine-Human-ebook/dp/B09TD8XWLB/ref=sr_1_1)
+- "Epoch-defining" - Walter Isaacson. [link](https://www.amazon.co.uk/Elon-Musk-Walter-Isaacson/dp/1398527491) 
