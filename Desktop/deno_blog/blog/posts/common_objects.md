@@ -9,3 +9,4 @@ Objects that ~majority of humans have/use:
 - Mobile phone.
 - Knife & fork.
 - Shoes.   
+- Education.  
