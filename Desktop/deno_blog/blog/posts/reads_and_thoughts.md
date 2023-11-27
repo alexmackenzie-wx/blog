@@ -44,4 +44,4 @@ Thoughts:
 - "An answer so wrong it would eventually point to the truth" - Siddhartha Mukherjee. [link](https://www.amazon.co.uk/Song-Cell-Exploration-Medicine-Human-ebook/dp/B09TD8XWLB/ref=sr_1_1)
 - "A minor-major transition" - Siddhartha Mukherjee. [link](https://www.amazon.co.uk/Song-Cell-Exploration-Medicine-Human-ebook/dp/B09TD8XWLB/ref=sr_1_1)
 - "Epoch-defining" - Walter Isaacson. [link](https://www.amazon.co.uk/Elon-Musk-Walter-Isaacson/dp/1398527491) 
-- "So bad it's not even wronh" - Wolfgang Pauli. link](https://www.amazon.co.uk/Song-Cell-Exploration-Medicine-Human-ebook/dp/B09TD8XWLB/ref=sr_1_1)  
+- "So bad it's not even wrong" - Wolfgang Pauli. [link](https://www.amazon.co.uk/Song-Cell-Exploration-Medicine-Human-ebook/dp/B09TD8XWLB/ref=sr_1_1)  
