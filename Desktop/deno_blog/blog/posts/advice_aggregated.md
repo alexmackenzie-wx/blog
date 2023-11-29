@@ -19,7 +19,7 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Do good deals" - Anon on becoming a great investor. "Obvious" - but very easy to climb the wrong hill.
 
-- "Look at the steepness of the slope" - [Geoff Lewis](https://www.youtube.com/watch?v=gd8ljRyBmTQ) on assessing the MOIC of people vs. companies.
+- "Look at the steepness of the slope" - [Geoff Lewis](https://www.youtube.com/watch?v=gd8ljRyBmTQ) on assessing talent.
 
 - "Rock, sand & water" - [Sarah Tavel](https://sarahtavel.medium.com/the-opportunity-and-risks-for-consumer-startups-in-a-social-distancing-world-a-framework-for-15f65e2fbdff) with a framework on consumers' time allocation.
 
