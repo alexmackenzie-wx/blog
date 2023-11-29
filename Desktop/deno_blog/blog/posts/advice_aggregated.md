@@ -91,8 +91,6 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Companies that suffer from indigestion" - [Miles Grimshaw](https://www.joincolossus.com/episodes/29895246/grimshaw-assessing-the-dna-of-software-companies?tab=transcript) on the importance of seeking out companies that can compound via 2nd / 3rd acts.
 
-- "Trust = Credibility x Reliability x Vulnerability" - [Ryan Caldbeck](https://x.com/ryan_caldbeck/status/1013626221601738754?s=20) on a framework for trust.
-
 - "Pay attention to directional arrows of progress" - [Josh Wolfe](https://podcasts.apple.com/us/podcast/josh-wolfe-the-tech-imperative/id1154105909?i=1000436137469).
 
 - "Make something people want, before they can buy it" - [Palmer Luckey](https://open.spotify.com/episode/5I7Ue6hICwZWnI3ggtgaMY?si=6bc3fb2a78024535) on VR. 
