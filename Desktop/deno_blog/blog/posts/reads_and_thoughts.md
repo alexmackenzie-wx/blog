@@ -25,6 +25,7 @@ Reads:
 - What You Should Do With Your Life - Alexey Guzey. [link](https://guzey.com/personal/what-should-you-do-with-your-life/)
 - Work on These Things - Tyler Cowen. [link](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html)
 - Research Ideas - Alexey Guzey. [link](https://guzey.com/personal/research-ideas/)
+- The Market for Silver Bullets - Ian Grigg (thank you [Phil Clark](https://twitter.com/PJClark)!). [link](https://iang.org/papers/market_for_silver_bullets.html)
   
 Technical Reads:
 
