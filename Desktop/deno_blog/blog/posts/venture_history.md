@@ -11,4 +11,5 @@ Best returns I've come across in venture - will model at some point.
 - Benchmark's $3M into Ebay.
 - Kleiner Perkins' $XK into Genentech.
 - Fred Wilson when at Flat Iron invested in Geocities at a 20M pre-money, exited at $3.5B.
-- Hummingbird's first three funds were each 10x net. [link](https://thegeneralist.substack.com/p/hummingbird)  
+- Hummingbird's first three funds were each 10x net. [link](https://thegeneralist.substack.com/p/hummingbird)
+- Peak produced $600 million in revenue from just 100 employees at its apogee. [link](https://thegeneralist.substack.com/p/hummingbird) 
