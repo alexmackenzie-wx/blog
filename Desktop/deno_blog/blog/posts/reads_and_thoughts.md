@@ -25,7 +25,9 @@ Reads:
 - What You Should Do With Your Life - Alexey Guzey. [link](https://guzey.com/personal/what-should-you-do-with-your-life/)
 - Work on These Things - Tyler Cowen. [link](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html)
 - Research Ideas - Alexey Guzey. [link](https://guzey.com/personal/research-ideas/)
-- The Market for Silver Bullets - Ian Grigg (thank you [Phil Clark](https://twitter.com/PJClark)!). [link](https://iang.org/papers/market_for_silver_bullets.html)
+- The Market for Silver Bullets - Ian Grigg. [link](https://iang.org/papers/market_for_silver_bullets.html)
+- Geeks, MOPs and Sociopaths - David Chapman. [link](https://meaningness.com/geeks-mops-sociopaths)
+- Are you Serious? - Visakan Veerasamy. [link](https://visakanv.substack.com/p/are-you-serious)
   
 Technical Reads:
 
