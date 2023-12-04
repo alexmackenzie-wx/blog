@@ -24,6 +24,7 @@ Reads:
 - Writing Well - Julian Shapiro. [link](https://www.julian.com/guide/write/intro)
 - What You Should Do With Your Life - Alexey Guzey. [link](https://guzey.com/personal/what-should-you-do-with-your-life/)
 - Work on These Things - Tyler Cowen. [link](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html)
+- The Secret Tesla Motors Master Plan - Elon Musk. [link](https://www.tesla.com/en_gb/blog/secret-tesla-motors-master-plan-just-between-you-and-me)
 - Research Ideas - Alexey Guzey. [link](https://guzey.com/personal/research-ideas/)
 - The Market for Silver Bullets - Ian Grigg. [link](https://iang.org/papers/market_for_silver_bullets.html)
 - Geeks, MOPs and Sociopaths - David Chapman. [link](https://meaningness.com/geeks-mops-sociopaths)
