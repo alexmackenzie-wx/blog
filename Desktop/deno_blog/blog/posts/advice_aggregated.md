@@ -97,6 +97,8 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Pick one technical moat/differntiator & build a religion around it" - Anon re. technical marketing.
 
+- "Find out what works and do it" - [Charlie Munger](https://www.joincolossus.com/episodes/76168278/munger-a-conversation-with-charlie-munger-john-collison) on Lee Kuan Yew. 
+
 - "Power to the People" - [Rich Barton](https://kwokchain.com/2019/04/09/making-uncommon-knowledge-common/) on building marketplaces.    
      
 [Pull requests](https://github.com/alexmackenzie-wx/blog) encouraged if you have a learning to share!
