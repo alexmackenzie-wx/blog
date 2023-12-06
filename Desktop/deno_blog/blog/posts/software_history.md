@@ -29,4 +29,5 @@ A perennial document attempting to capture the history of software. PRs welcome!
 - Sourcegraph Seed raised in 2015.
 - Yandex open sources ClickHouse in 2016. 
 - GitHub moved to Kubernetes in 2017.
-- Snowflake IPO in 2020. 
+- Snowflake IPO in 2020.
+- Confluent IPO in 2021. 
