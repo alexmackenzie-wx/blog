@@ -19,6 +19,7 @@ A perennial document attempting to capture the history of software. PRs welcome!
 - Homebrew created by Max Howell in 2009. 
 - Microosft Azure launched in 2010.
 - Spark developed at AMPLab at University of California and open sourced in 2010.
+- Kafka spun-out of LinkedIn in 2011. 
 - AWS Redshift launched in 2012.
 - Snowflake founded in 2012.
 - Looker founded in 2012.   
