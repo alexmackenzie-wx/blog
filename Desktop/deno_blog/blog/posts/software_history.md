@@ -19,7 +19,7 @@ A perennial document attempting to capture the history of software. PRs welcome!
 - Homebrew created by Max Howell in 2009. 
 - Microosft Azure launched in 2010.
 - Spark developed at AMPLab at University of California and open sourced in 2010.
-- Kafka spun-out of LinkedIn in 2011. 
+- Kafka created in 2011. 
 - AWS Redshift launched in 2012.
 - Snowflake founded in 2012.
 - Looker founded in 2012.   
@@ -27,6 +27,7 @@ A perennial document attempting to capture the history of software. PRs welcome!
 - Sourcegraph founded in 2013.
 - Kubernetes released in 2014.
 - AWS Lambda released in 2014.
+- Confluent founded in 2014.
 - Sourcegraph Seed raised in 2015.
 - Yandex open sources ClickHouse in 2016. 
 - GitHub moved to Kubernetes in 2017.
