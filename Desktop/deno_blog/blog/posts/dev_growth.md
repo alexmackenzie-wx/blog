@@ -159,5 +159,6 @@ My general rule of thumb here is to remember your audience/your content objectiv
 - \>> [Stripe's](https://twitter.com/avstorm/status/1280367397279608833) homepage easter egg.
 - \>> [Tine's](https://www.linkedin.com/posts/eoinhinchy_at-tines-we-love-to-celebrate-the-team-members-ugcPost-7074000941821095936-1k1J) developer credit roll.
 - \>> [Infisical's](https://infisical.com/infisical-friends) "open source friends".
-- \>> Discord previews what your profile could look like _if_ you paid for Nitro.   
+- \>> Discord previews what your profile could look like _if_ you paid for Nitro.
+- \>> Arc Browser gives you the option to drive Arc as your default browser for one week (less of a commitment).    
   
