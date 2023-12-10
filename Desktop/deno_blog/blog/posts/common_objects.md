@@ -14,5 +14,7 @@ Objects or actions that ~majority of humans have / use / do:
 **Actions**
 - Education (5 times a week until high school / college grad).
 - Listen to music (everyday).
-- Speak (consistently, everyday).    
+- Speak (consistently, everyday).
+- Eating (3 times everyday).
+- Using internet (consistently, everyday).      
 
