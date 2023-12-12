@@ -34,6 +34,7 @@ Technical Reads:
 
 - System Design: Stripe Capture the Flag - Greg Brockman. [link](https://blog.gregbrockman.com/system-design-stripe-capture-the-flag)
 - Grapheme Clusters in Terminals - Mitchell Hashimoto. [link](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
+- Why Log Systems Require So Much Infrastructure - Cribl. [link](https://info.cribl.io/rs/781-YMF-705/images/Cribl-Why-Log-Systems-Require-so-much-Infrastructure-WP.pdf) 
 
 Video:
 
