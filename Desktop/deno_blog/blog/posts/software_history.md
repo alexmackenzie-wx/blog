@@ -21,6 +21,7 @@ A perennial document attempting to capture the history of software. PRs welcome!
 - Spark developed at AMPLab at University of California and open sourced in 2010.
 - Kafka created in 2011. 
 - AWS Redshift launched in 2012.
+- Prometheus developed at SoundCloud in 2012.
 - Snowflake founded in 2012.
 - Looker founded in 2012.   
 - Docker released in 2013.
@@ -29,7 +30,8 @@ A perennial document attempting to capture the history of software. PRs welcome!
 - AWS Lambda released in 2014.
 - Confluent founded in 2014.
 - Sourcegraph Seed raised in 2015.
-- Yandex open sources ClickHouse in 2016. 
+- Yandex open sources ClickHouse in 2016.
+- Prometheus accepted by CNCF as second incubated product. 
 - GitHub moved to Kubernetes in 2017.
 - Snowflake IPO in 2020.
 - Confluent IPO in 2021. 
