@@ -42,6 +42,7 @@ Video:
 - On Storytelling - Ira Glass. [link](https://youtu.be/5pFI9UuC_fc?si=4BdlSgtsFCoDYevj)
 - 2,851 Miles - Bill Gurley. [link](https://x.com/theallinpod/status/1702908187287212257?s=20)
 - Do What You Can't - Casey Neistat. [link](https://youtu.be/jG7dSXcfVqE?si=8ggsdA7WFV1fqo2V)
+- Public Key Crytography - Maxwell Krohn. [link](https://www.youtube.com/watch?v=6b6uuIFSgzI&t=769s&pp=ygUNbWF4d2VsbCBrcm9obg%3D%3D)
 
 Thoughts:
 
