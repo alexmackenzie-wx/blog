@@ -13,6 +13,8 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Patience is arbitrage" - [Mike Maples](https://www.youtube.com/watch?v=j9xouls5eX0) on the importance of playing long-term games.
 
+- "In order to make delicious food, you must eat delicious food." - [Karri Saarinen](https://karrisaarinen.com/jiro/) on cultivating taste (via Jiro Dreams of Sushi).
+
 - "Focus on both music making and conducting" - [Josh Kushner](https://open.spotify.com/episode/0SEcbog1iWyMIPtbQxQuYF?si=_06bEVGYTWG6n6R7Df6Eug) on how to refine your investment picking whilst management responsibilities scale.
 
 - "Suck the oxygen out of the air" - [Pat Grady](https://twitter.com/gradypb/status/1500853918036729856?s=20&t=nBg6rHzCk0fTZD5avEMTEg) on winning founder mind share. (about Sarah Guo!)
