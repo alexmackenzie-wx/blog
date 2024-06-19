@@ -63,7 +63,9 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "N+1>N" - [Eugenio Pace](https://www.linkedin.com/in/eugeniop/) on building depth into a product/company. 
 
-- "Technical logistics companies" - [Alex Wang](https://podcasts.apple.com/us/podcast/alexandr-wang-a-primer-on-ai/id1154105909?i=1000557211885) on the value of investing in / building intangible complexity. 
+- "Technical logistics companies" - [Alex Wang](https://podcasts.apple.com/us/podcast/alexandr-wang-a-primer-on-ai/id1154105909?i=1000557211885) on the value of investing in / building intangible complexity.
+
+- "An emerging market leader" - [Pat Grady](https://open.spotify.com/episode/6Y8phjq7qLjCL7TGJPDkro) on picking.
 
 - "Their time is already allocated" - [Marc Andreessen](https://www.joincolossus.com/episodes/58516750/andreessen-making-the-future) on the difficulty of capturing consumer attention.
 
