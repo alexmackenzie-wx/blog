@@ -17,6 +17,8 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "Focus on both music making and conducting" - [Josh Kushner](https://open.spotify.com/episode/0SEcbog1iWyMIPtbQxQuYF?si=_06bEVGYTWG6n6R7Df6Eug) on how to refine your investment picking whilst management responsibilities scale.
 
+- "Unique and compelling value proposition" - [Pat Grady](https://open.spotify.com/episode/6Y8phjq7qLjCL7TGJPDkro) on gross margins & operating margins.
+
 - "Suck the oxygen out of the air" - [Pat Grady](https://twitter.com/gradypb/status/1500853918036729856?s=20&t=nBg6rHzCk0fTZD5avEMTEg) on winning founder mind share. (about Sarah Guo!)
 
 - "Do good deals" - Anon on becoming a great investor. "Obvious" - but very easy to climb the wrong hill.
