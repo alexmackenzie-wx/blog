@@ -1,5 +1,5 @@
 ---
-title: Malloy Primer
+title: Restate Primer
 publish_date: 2024-02-06
 ---
 _Life could do with a little more async/await._
