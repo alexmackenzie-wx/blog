@@ -1,7 +1,9 @@
 ---
-title: Announcing our Investment in Tracebit
+title: Our Investment in Tracebit
 publish_date: 2024-07-09
 ---
+
+"Going From the 'Top 1%' to 100%"
 
 _A year since our first meeting, we’re delighted to announce [Tapestry VC’s](https://www.tapestry.vc/) investment in [Tracebit’s](https://tracebit.com/) $5M Seed round alongside Accel and industry luminaries like Mandy Andress (CISO, Elastic), Josh Yavor (CISO, Tessian) and Guy Podjarny (Founder, Snyk).
 
