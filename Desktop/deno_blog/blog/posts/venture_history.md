@@ -7,7 +7,8 @@ WIP / Evolving doc.
 
 Best returns I've come across in venture - will model at some point. 
 
-- TVI's $1M into Microsoft for 5%. Owned 5% at IPO. 
+- TVI's $1M into Microsoft for 5%. Owned 5% at IPO.
+- Sequoia invested a total of $11.5M into YouTube (Series A-B) and their stake was eventually worth $504M. 44x return.  
 - Benchmark's $3M into Ebay.
 - Kleiner Perkins' $XK into Genentech.
 - Fred Wilson when at Flat Iron invested in Geocities at a 20M pre-money, exited at $3.5B.
