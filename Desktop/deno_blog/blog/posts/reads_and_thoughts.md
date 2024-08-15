@@ -29,6 +29,7 @@ Reads:
 - The Market for Silver Bullets - Ian Grigg. [link](https://iang.org/papers/market_for_silver_bullets.html)
 - Geeks, MOPs and Sociopaths - David Chapman. [link](https://meaningness.com/geeks-mops-sociopaths)
 - Are you Serious? - Visakan Veerasamy. [link](https://visakanv.substack.com/p/are-you-serious)
+- What I learned at Palantir - Robert Fink. [link](https://blog.robertfink.de/what-i-learned-at-palantir-hire-spiky-pioneers-c48a61a560ba)
   
 Technical Reads:
 
