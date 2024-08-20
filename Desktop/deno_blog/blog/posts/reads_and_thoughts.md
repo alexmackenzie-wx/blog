@@ -30,6 +30,7 @@ Reads:
 - Geeks, MOPs and Sociopaths - David Chapman. [link](https://meaningness.com/geeks-mops-sociopaths)
 - Are you Serious? - Visakan Veerasamy. [link](https://visakanv.substack.com/p/are-you-serious)
 - What I learned at Palantir - Robert Fink. [link](https://blog.robertfink.de/what-i-learned-at-palantir-hire-spiky-pioneers-c48a61a560ba)
+- 34 Startup Lessons - John Reinstra. [link](https://johnreinstra.com/writings/010_34_startup_lessons.html)
   
 Technical Reads:
 
