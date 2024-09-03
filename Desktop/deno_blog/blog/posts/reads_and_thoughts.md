@@ -31,6 +31,7 @@ Reads:
 - Are you Serious? - Visakan Veerasamy. [link](https://visakanv.substack.com/p/are-you-serious)
 - What I learned at Palantir - Robert Fink. [link](https://blog.robertfink.de/what-i-learned-at-palantir-hire-spiky-pioneers-c48a61a560ba)
 - 34 Startup Lessons - John Reinstra. [link](https://johnreinstra.com/writings/010_34_startup_lessons.html)
+- Principles for going -1 to 0 - Hardik Vala. [link](https://hardikvala.com/2024/07/29/principles-for-going-1-to-0.html)
   
 Technical Reads:
 
