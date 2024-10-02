@@ -11,9 +11,13 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "People that scare me" - [Graham Duncan](https://podcasts.apple.com/gb/podcast/362-graham-duncan-talent-is-the-best-asset-class/id863897795?i=1000430803993) on hiring Analysts that are capable of being better than you.
 
+- "Look for infinite problem spaces" - [Will Gaybrick](https://podcasts.apple.com/us/podcast/ep-118-will-gaybrick-president-of-product-and/id1606770839?i=1000670156025) on market selection.
+
 - "Patience is arbitrage" - [Mike Maples](https://www.youtube.com/watch?v=j9xouls5eX0) on the importance of playing long-term games.
 
 - "In order to make delicious food, you must eat delicious food." - [Karri Saarinen](https://karrisaarinen.com/jiro/) on cultivating taste (via Jiro Dreams of Sushi).
+
+- "Moral authority" - [Peter Fenton](https://open.spotify.com/episode/2UYqmiWH8GGc7Ah4ZS7fgd?si=els_6IFtTVGdF-NfIm5fgA) on a founder's ability/right to create change in an industry.
 
 - "Focus on both music making and conducting" - [Josh Kushner](https://open.spotify.com/episode/0SEcbog1iWyMIPtbQxQuYF?si=_06bEVGYTWG6n6R7Df6Eug) on how to refine your investment picking whilst management responsibilities scale.
 
@@ -35,9 +39,15 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "What's the last step" - [Palmer Luckey](https://www.youtube.com/watch?v=dMhVrYhQUsk) on how to avoid working on (or investing in!) incremental ideas. 
 
+- "What's the best thinh that happened at your company this week?" - [Phin Barnes](https://open.spotify.com/episode/2oY1g8pM6xPTRD5RwvZ8a9?si=S0s5a1AxS76b-Sxweh6Y1Q) on figuring out a company's priorities. 
+
 - "10**9" - [Roelof Botha](https://www.protocol.com/sequoia-roelof-botha) on investing exceptionally vs. incrementally. 
 
+- "Core vs. non-core" - [Will Gaybrick](https://podcasts.apple.com/us/podcast/ep-118-will-gaybrick-president-of-product-and/id1606770839?i=1000670156025) on if people want the "best" version of a product (e.g. a payment processor) it's core.
+
 - "World's most important companies" - [Bryan Singerman](https://www.joincolossus.com/episodes/34530101/singerman-investing-in-the-best-founders). "Obvious" - but useful way to keep incremental bias/adverse selection in check.
+
+- "First-rate physicists working on third-rate problems" - [Peter Fenton](https://www.acquired.fm/episodes/benchmark-part-ii-the-dinner) on market timing.
 
 - "Study Burning Man" - [Jess Lee](https://podcasts.apple.com/ca/podcast/jess-lee-designing-investment-products/id1154105909?i=1000568849876) on building / appraising communities.  
 
