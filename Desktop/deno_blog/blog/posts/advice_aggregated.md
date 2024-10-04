@@ -39,7 +39,7 @@ Below you'll find my ~unique aggregate of learnings about the business of ventur
 
 - "What's the last step" - [Palmer Luckey](https://www.youtube.com/watch?v=dMhVrYhQUsk) on how to avoid working on (or investing in!) incremental ideas. 
 
-- "What's the best thinh that happened at your company this week?" - [Phin Barnes](https://open.spotify.com/episode/2oY1g8pM6xPTRD5RwvZ8a9?si=S0s5a1AxS76b-Sxweh6Y1Q) on figuring out a company's priorities. 
+- "What's the best thing that happened at your company this week?" - [Phin Barnes](https://open.spotify.com/episode/2oY1g8pM6xPTRD5RwvZ8a9?si=S0s5a1AxS76b-Sxweh6Y1Q) on figuring out a company's priorities. 
 
 - "10**9" - [Roelof Botha](https://www.protocol.com/sequoia-roelof-botha) on investing exceptionally vs. incrementally. 
 
