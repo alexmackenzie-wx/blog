@@ -1,4 +1,4 @@
-import blog, { ga, redirects } from "https://deno.land/x/blog@0.4.0/blog.tsx";
+import * as blog from "https://deno.land/x/blog@0.7.0/blog.tsx";
 
 blog({
   title: "Alex Mackenzie",
